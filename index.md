@@ -4,8 +4,7 @@ title: Home
 
 <h1>Welcome To Chihuahua World </h1>
   <p>Here <em>you</em> will be able to find everything you need to know about <strong>Chihuahuas</strong>.</p>
-  
-    <h2>How To Take Care Of Your Chihuahua Puppy</h2>
+ <h2>How To Take Care Of Your Chihuahua Puppy</h2>
   <p>These are the 4 steps you need to take into account in order to properly take care of your puppy:</p>
   
   <ol>
