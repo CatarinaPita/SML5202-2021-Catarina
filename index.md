@@ -1,6 +1,6 @@
 ---
-title: home
+title: Home
 ---
 
-<h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<h1>¡Bien Venidos!</h1>
+<p> Here you will be able to learn Spanish and gain some cultural knowledge</p>
