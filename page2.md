@@ -6,7 +6,7 @@ title: Page2
 <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
-      <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png"></p>
+      <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png" style="width:100%></p>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
