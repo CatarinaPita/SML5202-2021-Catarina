@@ -24,9 +24,9 @@ title: Home
    
   <ol>
   <li>Listen to Spanish podcasts</li>
-  <li>Practice with natives</li>
   <li>Read books in Spanish</li>
-  <li>Watch the news in Spanish</li>
+  <li>Watch Spanish news</li>
+  <li>Practice with natives</li>
 </ol> 
   
   <p>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></p>
