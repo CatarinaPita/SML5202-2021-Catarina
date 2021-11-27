@@ -2,7 +2,7 @@
 title: Page2
 ---
 
-<h1>Page 2</h1>
+<h1>All About Spanish Culture!</h1>
 <div class="row">
 <div class="col-sm-6">
 <h3>Column 1</h3>
