@@ -18,7 +18,7 @@ title: Home
   <h2>Should you just use our website for learning?</h2>
   <p>The answer is <strong>NO</strong></p>
   
-  <p>Here is what you should go along with the use of your resources:</p>
+  <p>Here is what you should do while using our resources:</p>
    
   <ol>
   <li>Listen to Spanish podcasts</li>
