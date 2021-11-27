@@ -25,7 +25,7 @@ title: Home
   <ol>
   <li>Listen to Spanish podcasts</li>
   <li>Practice with natives</li>
-  <li>Read books in Spanih</li>
+  <li>Read books in Spanish</li>
   <li>Watch the news in Spanish</li>
 </ol> 
   
