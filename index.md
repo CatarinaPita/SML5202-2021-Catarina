@@ -4,32 +4,36 @@ title: Home
 
 <h1>Bien Venidos!</h1>
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
- <h2>How To Take Care Of Your Chihuahua Puppy</h2>
-  <p>These are the 4 steps you need to take into account in order to properly take care of your puppy:</p>
   
+ <h6>This Website Help You With:</h6>
+ 
+ <ul>
+  <li>Learning more about Spanish(Spain) culture</li>
+  <li>Learning basic vocabulary for everyday use</li>
+  <li>Practicing your reading, writing, listening and speaking skills</li>
+  <li>Improving and becoming more confident with your Spanish level </li>
+  </ul> 
+    
+ <hr>
+  <h2>Should you just use our website for learning?</h2>
+  <p>The answer is <strong>NO</strong></p>
+  
+  <p>Here is what you should go along with the use of your resources:</p>
+   
   <ol>
-  <li>Feeding your puppy healthy food</li>
-  <li>Exercise your puppy daily</li>
-  <li>Register your puppy and visit the veterinarian</li>
-  <li>Have grooming sessions every other month</li>
+  <li>Listen to Spanish podcasts</li>
+  <li>Practice with natives</li>
+  <li>Read books in Spanih</li>
+  <li>Watch the news in Spanish</li>
 </ol> 
   
   <p>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></p>
   
- <hr>
-  <h2>Just For Fun!</h2>
-  <p>Did You Know that...</p>
+  <h3>Why Learn Spanish?</h3>
   
-  <ul>
-  <li>Chihuahuas are Named After Chihuahua, <strong>Mexico</strong></li>
-  <li>The Chihuahua is the World's <strong>Smallest</strong> Breed</li>
-  <li>Chihuahuas Were Originally <strong>Bred</strong> to be Smaller</li>
-    <li>It was Believed that Chihuahuas Could <strong>Cure</strong> Asthma</li>
-  </ul> 
-    
-  <h3>A Fun Chihuahua Video To Watch</h3>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3xvmc1gVVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
- <iframe width="560" height="315" src="https://www.youtube.com/embed/uOZxtCNbwQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
   
  
 
