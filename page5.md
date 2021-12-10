@@ -27,3 +27,4 @@ title: wikipedia
 
 <hr>
 <div style="clear:both;"></div>
+<script src="wiki.js"></script>
