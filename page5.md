@@ -8,8 +8,7 @@ title: wikipedia
 
 <div class="row">
 <div class="col-sm-4">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" style="width:100%" /></p>
-<p>Flag of Portugal</p>
+<iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
 </div>
 <div class="col-sm-8">
 <header class="searchForm-container">
