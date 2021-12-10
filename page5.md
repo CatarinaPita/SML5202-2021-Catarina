@@ -8,7 +8,6 @@ title: wikipedia
 
 <div class="row">
 <div class="col-sm-4">
-<iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
 </div>
 <div class="col-sm-8">
 <header class="searchForm-container">
@@ -27,3 +26,5 @@ title: wikipedia
 <hr>
 <div style="clear:both;"></div>
 <script src="wiki.js"></script>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
