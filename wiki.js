@@ -10,7 +10,7 @@ function handleSubmit(event) {
 }
 
 function fetchResults(searchQuery) {
-	  const endpoint = `https://es.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=10&srsearch=${searchQuery}`;
+	  const endpoint = `https://es.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=5&srsearch=${searchQuery}`;
   	fetch(endpoint)
   		.then(response => response.json())
   		.then(data => {
