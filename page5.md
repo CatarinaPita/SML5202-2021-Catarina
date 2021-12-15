@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wikipedia
+title: Help
 ---
 <h1>Wikipedia search tool</h1>
 <p>This example searches the English Wikipedia site. Type a term into the box and see the results appear on this page.</p>
