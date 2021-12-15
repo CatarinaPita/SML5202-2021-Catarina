@@ -2,6 +2,13 @@
 title: Home
 ---
 
+<html lang="en">
+<head>
+     <meta charset="utf-8">
+    <meta name="author" content="Catarina Pita">
+    <meta name="description" content="This is a page where one can learn Spanish">
+</head>
+
 <h1>Bien Venidos!</h1>
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
 
