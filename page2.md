@@ -6,7 +6,7 @@ title: Page2
 <div class="row">
 <div class="col-sm-4">
 <h3>La Tomatina</h3>
-<p>https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
 </div>
  <div class="col-sm-4">
       <h3>Column 2</h3>
