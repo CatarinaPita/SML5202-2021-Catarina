@@ -24,6 +24,7 @@ trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</p>
 </div>
 <div class="col-sm-4">
 <h3 style="color:blue">Fiesta de San Fermín</h3>
+ <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
 <p>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on July
 14th.
  
