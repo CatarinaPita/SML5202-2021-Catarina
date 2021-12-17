@@ -26,31 +26,47 @@ title: Culture
 <div class="col-sm-4">
 <h3 style="color:blue">Fiesta de San Fermín</h3>
  <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
-<p>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on July
-14th.
- 
- During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs or   
- encierros.
- 
- A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each bull 
- run, which makes running the entire route practically impossible.
- 
- The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set aside 
- these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.
- 
- The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the world. And 
- since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.
- 
- Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7. </p>
+
+  <ul>
+  <li>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on 
+   July 14th.</li>
+  <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs or   
+ encierros.</li>
+  <li>A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each bull 
+ run, which makes running the entire route practically impossible.</li>
+  <li>The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set aside 
+ these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.</li>
+  <li>The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the world. And 
+ since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.</li>
+  <li> Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7.</li>
+  </ul> 
  
  </div>
  <div class="col-sm-4">
-   <h3 style="color:pink">Semana Santa</h3>
+   <h3 style="color:DeepPink">Semana Santa</h3>
     </div>
+ 
+  <ul>
+  <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
+   country, backdropped by spring weather and unique landscapes.</li>
+  <li>Semana Santa festivities vary by region, each displaying their own special flavor; those from the Andalusia region are particularly famous for their powerfully charged 
+   mood. What they all have in common is a passionate observance of tradition that attracts the devout and the curious each year, who gather on streets and squares to 
+   experience the intense ambience produced by the marching bands and costaleros, who carry elaborate floats topped with statues of religious figures.</li>
+  <li>The so-called costaleros are led by the capataz, who’s responsible for ensuring that everyone marches perfectly together, creating a solemn and hypnotizing rhythm. The 
+   floats are followed by nazarenos, dressed in long robes and tall, pointed hoods that completely cover their faces save for two small eyeholes, and women dressed in 
+   traditional costume.</li>
+  <li>The high point of the procession is when the floats exit and enter their respective churches. This is the moment when art and religion seem to merge into one. The 
+   sculptures of the religious images are created by superb craftsmen; the best floats date back to the 16th and 17th centuries and can still be seen today.</li>
+  <li>Emotions are stirred by the slow, rhythmic beating of the drums and processional marches, the swaying paces of the float bearers and the poignant wailing of the saetas, 
+   flamenco-inspired verses sung during the processions.</li>
+  <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
+   ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
+  </ul> 
+ 
+ 
 <hr>
  
 <h3>Take a look at this video in Spanish for additional information on the Fiestas we looked at and a few others!</h3>
-  <iframe width="530" height="315" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Zl-R5wt9ghE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <p> oighefojfpwelgjwpofsefoajfopwgn</p>
  
