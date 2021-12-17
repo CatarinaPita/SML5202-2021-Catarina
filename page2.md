@@ -22,11 +22,26 @@ fiestas, La Tomatina begins with the sound of an exploding bottle rocket, which 
 trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</p>
  
 </div>
+<div class="col-sm-4">
+<h3 style="color:blue">Fiesta de San Fermín</h3>
+<p>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on July
+14th.
+ 
+ During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs or   
+ encierros.
+ 
+ A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each bull 
+ run, which makes running the entire route practically impossible.
+ 
+ The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set aside 
+ these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.
+ 
+ The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the world. And 
+ since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.
+ 
+ Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7. </p>
  <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>The flag of Spain (Spanish: Bandera de España), as it is defined in the Constitution of 1978, consists of three horizontal stripes: red, yellow and red, the yellow stripe being twice the size of each red stripe. Traditionally, the middle stripe was defined by the more archaic term of gualda, and hence the popular name la Rojigualda (red-weld).</p>
-  <div class="col-sm-4">
-   <p> hello mmmm</p>
+   <h3 style="color:pink">Semana Santa</h3>
     </div>
 <hr/>
 <h6>Take a look at this video in Spanish for additional information on the Fiestas we looked at and more!</h6>
