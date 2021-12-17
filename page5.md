@@ -2,7 +2,7 @@
 layout: default
 title: Help
 ---
-
+<h3>Need Any Help?</h3>
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
