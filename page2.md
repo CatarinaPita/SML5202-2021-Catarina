@@ -44,9 +44,9 @@ title: Culture
  </div>
  <div class="col-sm-4">
    <h3 style="color:DeepPink">Semana Santa</h3>
-  
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
  
-  <ul>
+   <ul>
   <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
    country, backdropped by spring weather and unique landscapes.</li>
   <li>Semana Santa festivities vary by region, each displaying their own special flavor; those from the Andalusia region are particularly famous for their powerfully charged 
