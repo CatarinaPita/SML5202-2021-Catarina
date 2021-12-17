@@ -32,19 +32,19 @@ title: Culture
    July 14th.</li>
   <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs or   
  encierros.</li>
-  <li>A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each bull 
- run, which makes running the entire route practically impossible.</li>
-  <li>The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set aside 
- these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.</li>
-  <li>The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the world. And 
- since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.</li>
+  <li>A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each 
+   bull run, which makes running the entire route practically impossible.</li>
+  <li>The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set 
+   aside these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.</li>
+  <li>The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the  
+   world. And  since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.</li>
   <li> Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7.</li>
   </ul> 
  
  </div>
  <div class="col-sm-4">
    <h3 style="color:DeepPink">Semana Santa</h3>
-    </div>
+  
  
   <ul>
   <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
@@ -62,7 +62,7 @@ title: Culture
   <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
    ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
   </ul> 
- 
+   </div>
  
 <hr>
  
