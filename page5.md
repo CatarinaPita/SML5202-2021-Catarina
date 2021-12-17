@@ -13,8 +13,7 @@ title: Help
       </form>
 </header>
 <section class="searchResults"></section>
-</div>
-</div>
+
 
 <hr>
 <div style="clear:both;"></div>
