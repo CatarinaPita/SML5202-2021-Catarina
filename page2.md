@@ -46,6 +46,6 @@ trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</p>
    <h3 style="color:pink">Semana Santa</h3>
     </div>
 <hr/>
-<h6>Take a look at this video in Spanish for additional information on the Fiestas we looked at and more!</h6>
+<h3>Take a look at this video in Spanish for additional information on the Fiestas we looked at and a few others!</h3>
   <iframe width="320" height="180" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
