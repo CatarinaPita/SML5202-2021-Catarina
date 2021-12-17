@@ -2,14 +2,7 @@
 layout: default
 title: Help
 ---
-<h1>Wikipedia search tool</h1>
-<p>This example searches the English Wikipedia site. Type a term into the box and see the results appear on this page.</p>
-<p>Note: In this example, it is placed within a column container. However, it can be simply included in a full page too.</p>
 
-<div class="row">
-<div class="col-sm-4">
-</div>
-<div class="col-sm-8">
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
