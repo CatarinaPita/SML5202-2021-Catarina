@@ -14,7 +14,6 @@ title: Help
 </header>
 <section class="searchResults"></section>
 
-
 <hr>
 <div style="clear:both;"></div>
 <script src="wiki.js"></script>
