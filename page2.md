@@ -40,6 +40,8 @@ trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</p>
  since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.
  
  Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7. </p>
+ 
+ </div>
  <div class="col-sm-4">
    <h3 style="color:pink">Semana Santa</h3>
     </div>
