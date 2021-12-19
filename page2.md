@@ -87,17 +87,15 @@ title: Culture
 <p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
  
   <ul>
-  <li>La Tomatina is a food fight festival held on the last Wednesday of August each year in the town of Buñol near to Valencia in Spain. Thousands of people, from all over  
-   the world come to fight in this 'World's Biggest Food Fight' where more than one hundred metric tons of over-ripe tomatoes are thrown in the streets.
- </li> The batalla (fight) takes place during a week-long celebration filled with non-stop festivities and the ever-present anticipation of the monstrous tomato battle that  
-   puts a climactic end to the week's events.
-  <li>During the week leading up to this epic food fight, the 9,000 inhabitants of Buñol watch as their town doubles in size. A whole week of parades, fireworks, food, and 
-   street parties make this town the center of attention in all of Spain. The night before La Tomatina, the town’s narrow medieval streets begin to fill with the smell of 
-   tomatoes.</li>
-  <li>In the early morning of the last Wednesday in August, shopkeepers and business owners along the Plaza Mayor start to cover the windows and doors in preparation for 
-   what’s to come. Large trucks rumble up the cobblestone streets and arrive in the crowd-filled square ready to unload their haul of tomatoes to be used as ammunition. Like 
-   many Spanish fiestas, La Tomatina begins with the sound of an exploding bottle rocket, which signals that it’s time to start throwing. Townspeople unload the tomatoes from 
-   the back of the trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</li>
+  <li>AFTER LUNCH- The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
+   <li>In Spain, lunch is the biggest meal of the day. Since Spaniards don’t take breakfast very seriously (many even skip it) and dinner tends to be something light at the 
+   very end of the day, people tend to eat a lot at lunchtime. After a large meal, much of your blood goes to your stomach to help with digestion. This means there’s less 
+   blood flowing to your brain, and you start to feel drowsy and tired. (Ever heard of a food coma?)</li> 
+  <li>This, combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether 
+   mental or physical, an uphill battle.</li>
+  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. so 
+ employees can go home, eat, and take a rest from working during the hottest part of the day. Although Spaniards are quite used to having the city grind to a halt for a few 
+ hours in the middle of the day, foreigners often find siesta time frustrating, as they might have planned on walking around or shopping.</li>
   </ul> 
 </div>
  
