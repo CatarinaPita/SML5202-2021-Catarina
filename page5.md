@@ -17,5 +17,5 @@ title: Help
 <div style="clear:both;"></div>
 <script src="wiki.js"></script>
 
-<hr>
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
