@@ -10,8 +10,7 @@ title: Home
 </head>
 
 <h1>Bien Venidos!</h1>
-<div class="row">
-<div class="col-sm-6">
+
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
 
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
@@ -22,8 +21,7 @@ title: Home
   <li>Learning basic vocabulary for everyday use</li>
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
-  </ul> 
- </div>    
+  </ul>     
      
 <div class="row">
 <div class="col-sm-6">
