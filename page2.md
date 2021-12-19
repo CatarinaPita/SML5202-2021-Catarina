@@ -100,26 +100,39 @@ title: Culture
 </div>
  
 <div class="col-sm-4">
-<h3 style="color:blue">Fiesta de San Fermín</h3>
- <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
+<h3 style="color:Tomato">LA COMIDA EN ESPAÑA</h3>
+<p><img src="https://live.staticflickr.com/7584/27274653624_516c87bf75_b.jpg" alt="Paella" width="400" height="222"></p>
+ 
+  When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this phrase 
+ rings true in many ways, but perhaps some of the quintessentially Spanish things many tourists first experience are the Spanish customs surrounding food.
+
+From the moment you step off the plane and walk around the airport, you’ll find a variety of Spanish-style bars and restaurants. In fact, a study published in 2010 by La 
+ Caixa found that, in Spain, there’s an average of 1 bar for every 129 Spaniards. This brings us to the simple fact that eating and drinking are a very important part of 
+ Spanish culture.
+
+One thing foreigners should keep in mind is that in Spain most bars are restaurants, and vice versa. These establishments are social meeting places where people can have fun 
+ — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there are so many 
+ of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink or offered at a 
+ discount.
 
   <ul>
-  <li>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on 
-   July 14th.</li>
-  <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs 
-   or encierros.</li>
-  <li>A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each 
-   bull run, which makes running the entire route practically impossible.</li>
-  <li>The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set 
-   aside these days of the year to visit Pamplona and, while they’re at it, other parts of Spain.</li>
-  <li>The sheer number of people coming into the city means that nobody feels like they don’t belong. There’s always someone next to you from some far-flung part of the  
-   world. And  since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.</li>
-  <li> Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7.</li>
+  <li>When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this 
+   phrase rings true in many ways, but perhaps some of the quintessentially Spanish things many tourists first experience are the Spanish customs surrounding food.</li>
+  <li>From the moment you step off the plane and walk around the airport, you’ll find a variety of Spanish-style bars and restaurants. In fact, a study published in 2010 by 
+   La Caixa found that, in Spain, there’s an average of 1 bar for every 129 Spaniards. This brings us to the simple fact that eating and drinking are a very important part of 
+   Spanish culture.</li>
+  <li>One thing foreigners should keep in mind is that in Spain most bars are restaurants, and vice versa. These establishments are social meeting places where people can 
+   have fun — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there 
+   are so many of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink 
+   or offered at a discount.</li>
+  <li>lll</li>
+  <li>lll</li>
+  <li>lll</li>
   </ul> 
  </div>
  
  <div class="col-sm-4">
-   <h3 style="color:DeepPink">Semana Santa</h3>
+ <h3 style="color:DeepPink">Semana Santa</h3>
   <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
  
    <ul>
@@ -144,57 +157,9 @@ title: Culture
   
   
   
-  
-<div class="row">
-<div class="col-sm-4">
-<h3 style="color:CornflowerBlue">La Siesta</h3>
-<p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
- 
-<p> AFTER LUNCH
-The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.
-
-In Spain, lunch is the biggest meal of the day. Since Spaniards don’t take breakfast very seriously (many even skip it) and dinner tends to be something light at the very end 
- of the day, people tend to eat a lot at lunchtime. After a large meal, much of your blood goes to your stomach to help with digestion. This means there’s less blood flowing 
- to your brain, and you start to feel drowsy and tired. (Ever heard of a food coma?)
-
-This, combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether mental or 
- physical, an uphill battle.
-
-These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. so 
- employees can go home, eat, and take a rest from working during the hottest part of the day. Although Spaniards are quite used to having the city grind to a halt for a few 
- hours in the middle of the day, foreigners often find siesta time frustrating, as they might have planned on walking around or shopping. </p>
- 
-</div>
-
-<div class="row">
-<div class="col-sm-4">
-<h3 style="color:red">LA COMIDA EN ESPAÑA</h3>
-<p><img src="https://live.staticflickr.com/7584/27274653624_516c87bf75_b.jpg" alt="Paella" width="400" height="222"></p>
- 
- When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this phrase 
- rings true in many ways, but perhaps some of the quintessentially Spanish things many tourists first experience are the Spanish customs surrounding food.
-
-From the moment you step off the plane and walk around the airport, you’ll find a variety of Spanish-style bars and restaurants. In fact, a study published in 2010 by La 
- Caixa found that, in Spain, there’s an average of 1 bar for every 129 Spaniards. This brings us to the simple fact that eating and drinking are a very important part of 
- Spanish culture.
-
-One thing foreigners should keep in mind is that in Spain most bars are restaurants, and vice versa. These establishments are social meeting places where people can have fun 
- — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there are so many 
- of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink or offered at a 
- discount.
- </div>
- 
-<div class="row">
-<div class="col-sm-4">
-<h3 style="color:red">La Tomatina</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
-</div>
- 
-</div>
-  
-  
 <hr> 
-<h3>Take a look at this video in Spanish for additional information on the Fiestas we looked at and a few others!</h3>
-<iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Take a look at this video and complete the following exercices!</h3>
+
+<iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
