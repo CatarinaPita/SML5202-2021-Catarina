@@ -29,7 +29,7 @@ title: Home
      
 <div class="row">
 <div class="col-sm-6">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="400" height="222"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="500" height="333"></p>
 </div>    
      
  <hr>
