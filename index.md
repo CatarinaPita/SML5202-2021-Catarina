@@ -10,6 +10,8 @@ title: Home
 </head>
 
 <h1>Bien Venidos!</h1>
+<div class="row">
+<div class="col-sm-6">
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
 
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
@@ -22,7 +24,11 @@ title: Home
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
   </ul> 
-    
+  
+ <div class="row">
+<div class="col-sm-6">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="400" height="222"></p>
+     
  <hr>
   <h2>Should you just use our website for learning?</h2>
   <p>The answer is <strong>NO</strong></p>
