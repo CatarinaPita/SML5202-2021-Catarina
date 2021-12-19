@@ -9,6 +9,8 @@ title: Home
     <meta name="description" content="This is a page where one can learn Spanish">
 </head>
 
+<div class="row">
+<div class="col-sm-6">
 <h1>Bien Venidos!</h1>
 
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
@@ -21,7 +23,14 @@ title: Home
   <li>Learning basic vocabulary for everyday use</li>
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
-  </ul>     
+  </ul>  
+</div>
+ 
+<div class="col-sm-6">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" width="400" height="222"></p>
+</div>
+ 
+</div>   
         
 <hr>
      
