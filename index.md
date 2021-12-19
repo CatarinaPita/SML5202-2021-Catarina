@@ -11,7 +11,7 @@ title: Home
 
 <h1>Bien Venidos!</h1>
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-4">
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
 
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
@@ -28,7 +28,7 @@ title: Home
  </div>    
      
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-4">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="500" height="333"></p>
 </div>    
      
