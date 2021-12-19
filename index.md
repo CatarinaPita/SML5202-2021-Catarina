@@ -22,12 +22,7 @@ title: Home
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
   </ul>     
-     
-<div class="row">
-<div class="col-sm-6">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="500" height="333"></p>
-</div>    
-     
+        
 <hr>
      
   <h2>Should you just use our website for learning?</h2>
