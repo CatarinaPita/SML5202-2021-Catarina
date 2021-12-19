@@ -75,7 +75,6 @@ title: Culture
   </ul> 
    </div>
  
-<hr>
 
  <h2> COSTUMBRES ESPAÑOLAS:</h2>
   
