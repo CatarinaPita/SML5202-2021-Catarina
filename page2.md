@@ -32,8 +32,8 @@ title: Culture
    many Spanish fiestas, La Tomatina begins with the sound of an exploding bottle rocket, which signals that it’s time to start throwing. Townspeople unload the tomatoes from 
    the back of the trucks and begin pelting the crowd with some of the 120 tons of tomatoes.</li>
   </ul> 
-  
 </div>
+ 
 <div class="col-sm-4">
 <h3 style="color:blue">Fiesta de San Fermín</h3>
  <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
@@ -41,8 +41,8 @@ title: Culture
   <ul>
   <li>The fiestas begin on July 6 with the launch of a firework rocket known as el chupinazo in the Plaza del Ayuntamiento, the same place where it all comes to an end on 
    July 14th.</li>
-  <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs or   
- encierros.</li>
+  <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring. These are the world-famous bull runs 
+   or encierros.</li>
   <li>A bull run is a race about 950 yards long that takes two to three minutes to run as long as nothing out of the ordinary happens. Around 2,000 people participate in each 
    bull run, which makes running the entire route practically impossible.</li>
   <li>The San Fermín festival was made famous by Ernest Hemingway when he included it in a scene from his novel The Sun Also Rises. Ever since, thousands of tourists set 
@@ -51,8 +51,8 @@ title: Culture
    world. And  since everyone wears white and dons a red handkerchief around their neck, no one feels out of place.</li>
   <li> Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7.</li>
   </ul> 
- 
  </div>
+ 
  <div class="col-sm-4">
    <h3 style="color:DeepPink">Semana Santa</h3>
   <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
@@ -73,9 +73,12 @@ title: Culture
   <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
    ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
   </ul> 
-   </div>
+  </div>
  
-
+ </div>
+ 
+<hr>
+ 
  <h2> COSTUMBRES ESPAÑOLAS:</h2>
   
 <div class="row">
@@ -97,8 +100,8 @@ These factors explain why one of the many Spanish customs involves taking a nap 
  employees can go home, eat, and take a rest from working during the hottest part of the day. Although Spaniards are quite used to having the city grind to a halt for a few 
  hours in the middle of the day, foreigners often find siesta time frustrating, as they might have planned on walking around or shopping. </p>
  
- 
 </div>
+
 <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">LA COMIDA EN ESPAÑA</h3>
@@ -115,14 +118,15 @@ One thing foreigners should keep in mind is that in Spain most bars are restaura
  — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there are so many 
  of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink or offered at a 
  discount.
- 
  </div>
+ 
 <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">La Tomatina</h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
- </div>
- </div>
+</div>
+ 
+</div>
   
   
 <hr> 
