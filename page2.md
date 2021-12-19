@@ -79,10 +79,12 @@ title: Culture
  
  <hr>
  
+ <h2> COSTUMBRES ESPAÑOLAS:</h2>
+ 
  <div class="row">
 <div class="col-sm-4">
-<h3 style="color:red">La Tomatina New</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
+<h3 style="color:CornflowerBlue">La Siesta</h3>
+<p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
  
   <ul>
   <li>La Tomatina is a food fight festival held on the last Wednesday of August each year in the town of Buñol near to Valencia in Spain. Thousands of people, from all over  
@@ -141,11 +143,9 @@ title: Culture
   </div>
  
  </div>
- 
- 
-<hr>
- 
- <h2> COSTUMBRES ESPAÑOLAS:</h2>
+  
+  
+  
   
 <div class="row">
 <div class="col-sm-4">
