@@ -3,6 +3,16 @@ title: Culture
 ---
 
 <h1>All About Spanish Culture!</h1>
+
+<p>Spain is famous around the world for Flamenco music and dance, bullfights, fantastic beaches, and lots of sunshine. But what people sometimes forget is that Spain has been 
+ one of the cultural centers of Europe for thousands of years.</p>
+ 
+<p>Learning Spanish is not just grammar and vocabulary but also about getting to know its people, their culture and ways of life. Spanish traditions, customs, celebrations, 
+ and other cultural activities are unique to Spanish society. So, if you want to learn all about Spanish culture, then you are in the rifht place!</p>
+
+
+<h2>Fiestas Españolas</h2>
+
 <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">La Tomatina</h3>
