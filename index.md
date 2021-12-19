@@ -28,7 +28,8 @@ title: Home
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="500" height="333"></p>
 </div>    
      
-
+<hr>
+     
   <h2>Should you just use our website for learning?</h2>
   <p>The answer is <strong>NO</strong></p>
   
