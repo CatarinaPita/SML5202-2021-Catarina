@@ -84,17 +84,18 @@ title: Culture
 <h3 style="color:CornflowerBlue">La Siesta</h3>
 <p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
  
+  </div>
  <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">La Tomatina</h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
  
- 
+  </div>
  <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">La Tomatina</h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
- 
+  </div>
  
 <hr> 
 <h3>Take a look at this video in Spanish for additional information on the Fiestas we looked at and a few others!</h3>
