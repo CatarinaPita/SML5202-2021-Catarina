@@ -102,18 +102,6 @@ title: Culture
 <div class="col-sm-4">
 <h3 style="color:Tomato">LA COMIDA EN ESPAÑA</h3>
 <p><img src="https://live.staticflickr.com/7584/27274653624_516c87bf75_b.jpg" alt="Paella" width="400" height="222"></p>
- 
-  When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this phrase 
- rings true in many ways, but perhaps some of the quintessentially Spanish things many tourists first experience are the Spanish customs surrounding food.
-
-From the moment you step off the plane and walk around the airport, you’ll find a variety of Spanish-style bars and restaurants. In fact, a study published in 2010 by La 
- Caixa found that, in Spain, there’s an average of 1 bar for every 129 Spaniards. This brings us to the simple fact that eating and drinking are a very important part of 
- Spanish culture.
-
-One thing foreigners should keep in mind is that in Spain most bars are restaurants, and vice versa. These establishments are social meeting places where people can have fun 
- — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there are so many 
- of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink or offered at a 
- discount.
 
   <ul>
   <li>When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this 
