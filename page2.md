@@ -12,7 +12,7 @@ title: Culture
 
 <hr>
 
-<h2>Fiestas Españolas:</h2>
+<h2>FIESTAS ESPAÑOLAS:</h2>
 
 <div class="row">
 <div class="col-sm-4">
@@ -77,10 +77,27 @@ title: Culture
  
 <hr>
 
+ <h2> COSTUMBRES ESPAÑOLAS:</h2>
+  
+ <div class="row">
+<div class="col-sm-4">
+<h3 style="color:CornflowerBlue">La Siesta</h3>
+<p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
+ 
+ <div class="row">
+<div class="col-sm-4">
+<h3 style="color:red">La Tomatina</h3>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
+ 
+ 
+ <div class="row">
+<div class="col-sm-4">
+<h3 style="color:red">La Tomatina</h3>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
+ 
  
 <hr> 
 <h3>Take a look at this video in Spanish for additional information on the Fiestas we looked at and a few others!</h3>
 <iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- <p> oighefojfpwelgjwpofsefoajfopwgn</p>
  
