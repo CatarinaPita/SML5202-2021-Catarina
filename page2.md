@@ -84,11 +84,26 @@ title: Culture
 <h3 style="color:CornflowerBlue">La Siesta</h3>
 <p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
  
+ <p> AFTER LUNCH
+The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.
+
+In Spain, lunch is the biggest meal of the day. Since Spaniards don’t take breakfast very seriously (many even skip it) and dinner tends to be something light at the very end 
+  of the day, people tend to eat a lot at lunchtime. After a large meal, much of your blood goes to your stomach to help with digestion. This means there’s less blood flowing 
+  to your brain, and you start to feel drowsy and tired. (Ever heard of a food coma?)
+
+This, combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether mental or 
+  physical, an uphill battle.
+
+These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. so 
+  employees can go home, eat, and take a rest from working during the hottest part of the day. Although Spaniards are quite used to having the city grind to a halt for a few 
+  hours in the middle of the day, foreigners often find siesta time frustrating, as they might have planned on walking around or shopping. </p>
+ 
+ 
   </div>
  <div class="row">
 <div class="col-sm-4">
-<h3 style="color:red">La Tomatina</h3>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
+<h3 style="color:red">LA COMIDA EN ESPAÑA</h3>
+<p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpxhere.com%2Fes%2Fphoto%2F828767&psig=AOvVaw1fyCR2-HEoqV-iWVAHSdZ7&ust=1640035845899000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiGtOXn8PQCFQAAAAAdAAAAABAI" alt="Paella Valenciana" width="400" height="222"></p>
  
   </div>
  <div class="row">
