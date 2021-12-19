@@ -17,14 +17,12 @@ title: Home
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
   
  <h6>This Website Help You With:</h6>
- 
  <ul>
   <li>Learning more about Spanish(Spain) culture</li>
   <li>Learning basic vocabulary for everyday use</li>
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
   </ul> 
-  
  </div>    
      
 <div class="row">
@@ -32,7 +30,7 @@ title: Home
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Spanish Flag Drawing" width="500" height="333"></p>
 </div>    
      
- <hr>
+
   <h2>Should you just use our website for learning?</h2>
   <p>The answer is <strong>NO</strong></p>
   
