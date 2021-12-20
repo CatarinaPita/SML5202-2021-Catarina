@@ -3,13 +3,6 @@ layout: default
 title: Help
 ---
 <h3>Need Any Help?</h3>
-
-<div class="row">
-<div class="col-sm-4">
-<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" width="400" height="222"></p>
-</div>
-        
-<div class="col-sm-8">
 <p>Use this Wikipedia search button below to search for anything you'd like information on.</p>
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
@@ -24,11 +17,14 @@ title: Help
 
 <div style="clear:both;"></div>
 <script src="wiki.js"></script>
-</div>
-</div>
 
-<hr>
 
+<div class="row">
+<div class="col-sm-4">
+<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" width="400" height="222"></p>
+</div>
+        
+<div class="col-sm-8">
 <h5>Need a bit more help? Here are a few helpful links:
        
 <ul>
@@ -37,7 +33,9 @@ title: Help
   <li>For any additional information please click <a href="">here</a></li>
   <li>For any additional information please click <a href="">here</a></li>
   </ul>             
-        
-<hr>        
 
+</div>
+</div>
+
+<hr>
 <iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
