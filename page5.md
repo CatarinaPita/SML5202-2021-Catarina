@@ -36,8 +36,6 @@ title: Help
 </div>
  
  
- </div>
- 
         
 <hr>
         
