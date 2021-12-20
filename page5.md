@@ -5,11 +5,11 @@ title: Help
 <h3>Need Any Help?</h3>
 
 <div class="row">
-<div class="col-sm-6">
-<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" width="500" height="333"></p>
+<div class="col-sm-4">
+<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" width="400" height="222"></p>
 </div>
         
-<div class="col-sm-6">
+<div class="col-sm-8">
 <p>Use this Wikipedia search button below to search for anything you'd like information on.</p>
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
