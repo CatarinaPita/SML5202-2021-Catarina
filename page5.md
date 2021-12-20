@@ -27,6 +27,8 @@ title: Help
 </div>
 </div>
 
+<hr>
+
 <h5>Need a bit more help? Here are a few helpful links:
        
 <ul>
