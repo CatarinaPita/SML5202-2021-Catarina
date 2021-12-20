@@ -20,11 +20,11 @@ title: Help
 
 
 <div class="row">
-<div class="col-sm-4">
+<div class="col-sm-6">
 <p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" width="400" height="222"></p>
 </div>
         
-<div class="col-sm-8">
+<div class="col-sm-6">
 <h5>Need a bit more help? Here are a few helpful links:
        
 <ul>
@@ -33,7 +33,6 @@ title: Help
   <li>For any additional information please click <a href="">here</a></li>
   <li>For any additional information please click <a href="">here</a></li>
   </ul>             
-</div>
 </div>
 
 <hr>
