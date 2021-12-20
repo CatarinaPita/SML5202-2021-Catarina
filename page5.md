@@ -38,7 +38,7 @@ title: Help
   </ul> 
 </div>
  
-<div class="col-sm-4">
+<div class="col-sm-8">
 <h3 style="color:blue">Fiesta de San Fermín</h3>
  <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
 
@@ -57,27 +57,6 @@ title: Help
   </ul> 
  </div>
  
- <div class="col-sm-4">
-   <h3 style="color:DeepPink">Semana Santa</h3>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
- 
-   <ul>
-  <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
-   country, backdropped by spring weather and unique landscapes.</li>
-  <li>Semana Santa festivities vary by region, each displaying their own special flavor; those from the Andalusia region are particularly famous for their powerfully charged 
-   mood. What they all have in common is a passionate observance of tradition that attracts the devout and the curious each year, who gather on streets and squares to 
-   experience the intense ambience produced by the marching bands and costaleros, who carry elaborate floats topped with statues of religious figures.</li>
-  <li>The so-called costaleros are led by the capataz, who’s responsible for ensuring that everyone marches perfectly together, creating a solemn and hypnotizing rhythm. The 
-   floats are followed by nazarenos, dressed in long robes and tall, pointed hoods that completely cover their faces save for two small eyeholes, and women dressed in 
-   traditional costume.</li>
-  <li>The high point of the procession is when the floats exit and enter their respective churches. This is the moment when art and religion seem to merge into one. The 
-   sculptures of the religious images are created by superb craftsmen; the best floats date back to the 16th and 17th centuries and can still be seen today.</li>
-  <li>Emotions are stirred by the slow, rhythmic beating of the drums and processional marches, the swaying paces of the float bearers and the poignant wailing of the saetas, 
-   flamenco-inspired verses sung during the processions.</li>
-  <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
-   ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
-  </ul> 
-  </div>
  
  </div>
  
