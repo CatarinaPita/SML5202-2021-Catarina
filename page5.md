@@ -22,13 +22,12 @@ title: Help
 <h5>Need a bit more help? Here are a few helpful links:
        
 <ul>
-  <li>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></li>
-  <li>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></li>
-  <li>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></li>
-  <li>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
   </ul>             
         
-        
-<p>For any additional information please click <a href="https://www.wikihow.com/Care-for-Your-Chihuahua-Puppy#">here</a></p>
+<hr>        
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
