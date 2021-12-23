@@ -87,20 +87,18 @@ title: Culture
 <p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
  
   <ul>
-  <li>AFTER LUNCH- The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
-   <li>In Spain, lunch is the biggest meal of the day. Since Spaniards don’t take breakfast very seriously (many even skip it) and dinner tends to be something light at the 
-   very end of the day, people tend to eat a lot at lunchtime. After a large meal, much of your blood goes to your stomach to help with digestion. This means there’s less 
-   blood flowing to your brain, and you start to feel drowsy and tired. (Ever heard of a food coma?)</li> 
-  <li>This, combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether 
+  <li>The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
+   <li>In Spain, lunch is the biggest meal of the day and since Spaniards don’t take breakfast very seriously and dinner tends to be something light at the very end of the 
+    day, people tend to eat a lot at lunchtime, making them feel more tired.</li> 
+  <li>This combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether 
    mental or physical, an uphill battle.</li>
-  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. so 
- employees can go home, eat, and take a rest from working during the hottest part of the day. Although Spaniards are quite used to having the city grind to a halt for a few 
- hours in the middle of the day, foreigners often find siesta time frustrating, as they might have planned on walking around or shopping.</li>
+  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m.</li>
+  <li> So, employees can go home, eat, and rest during the hottest part of the day.</li>
   </ul> 
 </div>
  
 <div class="col-sm-4">
-<h3 style="color:Tomato">LA COMIDA EN ESPAÑA</h3>
+<h3 style="color:Tomato">LA GASTRONOMÍA</h3>
 <p><img src="https://live.staticflickr.com/7584/27274653624_516c87bf75_b.jpg" alt="Paella" width="400" height="222"></p>
 
   <ul>
@@ -120,24 +118,15 @@ title: Culture
  </div>
  
  <div class="col-sm-4">
- <h3 style="color:DeepPink">Semana Santa</h3>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
+ <h3 style="color:MediumPurple">DOS BESOS EN LA MEJILLA</h3>
+  <p><img src="https://live.staticflickr.com/1911/44907602981_c97d5fc571_b.jpg" alt="greeting kiss" width="400" height="222"></p>
  
-   <ul>
-  <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
-   country, backdropped by spring weather and unique landscapes.</li>
-  <li>Semana Santa festivities vary by region, each displaying their own special flavor; those from the Andalusia region are particularly famous for their powerfully charged 
-   mood. What they all have in common is a passionate observance of tradition that attracts the devout and the curious each year, who gather on streets and squares to 
-   experience the intense ambience produced by the marching bands and costaleros, who carry elaborate floats topped with statues of religious figures.</li>
-  <li>The so-called costaleros are led by the capataz, who’s responsible for ensuring that everyone marches perfectly together, creating a solemn and hypnotizing rhythm. The 
-   floats are followed by nazarenos, dressed in long robes and tall, pointed hoods that completely cover their faces save for two small eyeholes, and women dressed in 
-   traditional costume.</li>
-  <li>The high point of the procession is when the floats exit and enter their respective churches. This is the moment when art and religion seem to merge into one. The 
-   sculptures of the religious images are created by superb craftsmen; the best floats date back to the 16th and 17th centuries and can still be seen today.</li>
-  <li>Emotions are stirred by the slow, rhythmic beating of the drums and processional marches, the swaying paces of the float bearers and the poignant wailing of the saetas, 
-   flamenco-inspired verses sung during the processions.</li>
-  <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
-   ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
+  <ul>
+  <li> In Spain, people greet each other and say goodbye with a kiss on each cheek.</li>
+  <li>People usually touch their right cheeks together and make a kissing sound, then repeat the process on the left side.</li>
+  <li>Spaniards don’t do this every morning when they come into work, but if you meet a friend for drinks or are introduced to someone new, the double cheek kiss is given to 
+   say hello and goodbye.</li>
+  <li>Women are always greeted this way, but two men shake hands with each other unless they are relatives.</li>
   </ul> 
   </div>
  
@@ -146,7 +135,7 @@ title: Culture
   
   
 <hr> 
-<h3>Take a look at this video and complete the following exercice!</h3>
+<h3>Ready To Do Some Fun Activities?</h3>
 
 <iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
