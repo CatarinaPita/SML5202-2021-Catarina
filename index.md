@@ -20,7 +20,6 @@ title: Home
  <h6>This Website Help You With:</h6>
  <ul>
   <li>Learning more about Spanish(Spain) culture</li>
-  <li>Learning basic vocabulary for everyday use</li>
   <li>Practicing your reading, writing, listening and speaking skills</li>
   <li>Improving and becoming more confident with your Spanish level </li>
   </ul>  
