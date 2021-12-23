@@ -92,8 +92,8 @@ title: Culture
     day, people tend to eat a lot at lunchtime, making them feel more tired.</li> 
   <li>This combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether 
    mental or physical, an uphill battle.</li>
-  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m.</li>
-  <li> So, employees can go home, eat, and rest during the hottest part of the day.</li>
+  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. Major 
+   chains, however, are normally open all day without interruption.</li>
   </ul> 
 </div>
  
