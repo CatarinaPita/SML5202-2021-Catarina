@@ -98,27 +98,19 @@ title: Culture
 </div>
  
 <div class="col-sm-4">
-<h3 style="color:Tomato">LA GASTRONOMÍA</h3>
-<p><img src="https://live.staticflickr.com/7584/27274653624_516c87bf75_b.jpg" alt="Paella" width="400" height="222"></p>
+<h3 style="color:SaddleBrown">Café</h3>
+<p><img src="https://www.coffeegeek.com/wp-content/uploads/2019/09/americano-1-500x333.jpg" alt="Café" width="400" height="222"></p>
 
   <ul>
-  <li>When you’re in Spain, one phrase you’ll often hear in English (pronounced with Spanish accent) is Spain is different. When you live here, you’ll discover that this 
-   phrase rings true in many ways, but perhaps some of the quintessentially Spanish things many tourists first experience are the Spanish customs surrounding food.</li>
-  <li>From the moment you step off the plane and walk around the airport, you’ll find a variety of Spanish-style bars and restaurants. In fact, a study published in 2010 by 
-   La Caixa found that, in Spain, there’s an average of 1 bar for every 129 Spaniards. This brings us to the simple fact that eating and drinking are a very important part of 
-   Spanish culture.</li>
-  <li>One thing foreigners should keep in mind is that in Spain most bars are restaurants, and vice versa. These establishments are social meeting places where people can 
-   have fun — watching a soccer game, having a coffee, eating, drinking, partying, and really just about anything is a good excuse to go to a bar, which explains why there 
-   are so many of them. A typical bar will always have a nice variety of pinchos or tapas that vary from region to region and are usually included in the price of the drink 
-   or offered at a discount.</li>
-  <li>lll</li>
-  <li>lll</li>
-  <li>lll</li>
+  <li>Spain has a strong coffee culture, and it is not uncommon to drink four or five cups of coffee a day at all hours of the day. Café con leche, which is half strong black 
+   coffee and half milk, is by far the most popular way to drink java in Spain. You might be asked how you want your milk – caliente (hot), templada (warm), or fría (cold).</li>
+  <li>If a café con leche is too big for you, you can try a café cortado instead, which is a smaller version with only a touch of milk. Or if you’re craving something 
+   stronger, try a café solo, which is a small glass of nothing but strong black coffee.</li>
   </ul> 
  </div>
  
  <div class="col-sm-4">
- <h3 style="color:MediumPurple">DOS BESOS EN LA MEJILLA</h3>
+ <h3 style="color:MediumPurple">Dos Besos En La Mejilla</h3>
   <p><img src="https://live.staticflickr.com/1911/44907602981_c97d5fc571_b.jpg" alt="greeting kiss" width="400" height="222"></p>
  
   <ul>
