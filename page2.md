@@ -135,7 +135,7 @@ title: Culture
   
   
 <hr> 
-<h3>Ready To Do Some Fun Activities?</h3>
+<h3>Ready For Some Fun Activities?</h3>
 
 <h5> Actividad 1:</h5>  
 
