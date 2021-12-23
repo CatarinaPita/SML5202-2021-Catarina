@@ -80,10 +80,8 @@ title: Culture
  
   <ul>
   <li>The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
-   <li>In Spain, lunch is the biggest meal of the day and since Spaniards don’t take breakfast very seriously and dinner tends to be something light at the very end of the 
-    day, people tend to eat a lot at lunchtime, making them feel more tired.</li> 
-  <li>This combined with the fact that Spain usually experiences high temperatures at midday, especially in the summer, makes doing any type of work or activity, whether 
-   mental or physical, an uphill battle.</li>
+  <li>Spain is a hot country, especially mid-afternoon, and the traditional reason for the siesta is for the workers in the fields to shelter from the heat. They would then 
+  feel refreshed after their sleep and would work until quite late in the evening, longer than they would have been able to without the siesta.</li>
   <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. Major 
    chains, however, are normally open all day without interruption.</li>
   </ul> 
