@@ -133,7 +133,6 @@ title: Culture
  </div>
   
   
-  
 <hr> 
 <h3>Ready For Some Fun Activities?</h3>
 
