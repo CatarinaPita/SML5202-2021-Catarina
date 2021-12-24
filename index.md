@@ -11,8 +11,7 @@ title: Home
 
 <div class="row">
 <div class="col-sm-6">
-<h1>Bien Venidos!</h1>
-
+<h1 style="color:red">¡Bien Venidos!</h1>
 <p>Want to learn Spanish for <strong>free</strong>? If so, then you're in the <strong>right place</strong>!</p>
 
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
