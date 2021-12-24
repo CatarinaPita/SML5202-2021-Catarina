@@ -27,7 +27,7 @@ title: Culture
    fireworks, food, and street parties making this town the center of attention in all of Spain.</li>
   <li>In the early morning of the last Wednesday, all the shopkeepers and business owners along the Plaza Mayor start to cover all the windows and doors in preparation for 
    what’s to come. </li>
-  <li>Large trucks rumble up the cobblestone streets and arrive in the crowd-filled square ready to unload 120 tons of tomatoes.Finally, La Tomatina begins with the sound of 
+  <li>Large trucks rumble up the cobblestone streets and arrive in the crowd-filled square ready to unload 120 tons of tomatoes. Finally, La Tomatina begins with the sound of 
    an exploding bottle rocket, which signals that it’s time to start throwing. Townspeople unload the tomatoes from the back of the trucks and begin pelting the crowd.</li>
   </ul> 
 </div>
@@ -51,19 +51,16 @@ title: Culture
  
    <ul>
   <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
-   country, backdropped by spring weather and unique landscapes.</li>
-  <li>Semana Santa festivities vary by region, each displaying their own special flavor; those from the Andalusia region are particularly famous for their powerfully charged 
-   mood. What they all have in common is a passionate observance of tradition that attracts the devout and the curious each year, who gather on streets and squares to 
-   experience the intense ambience produced by the marching bands and costaleros, who carry elaborate floats topped with statues of religious figures.</li>
-  <li>The so-called costaleros are led by the capataz, who’s responsible for ensuring that everyone marches perfectly together, creating a solemn and hypnotizing rhythm. The 
-   floats are followed by nazarenos, dressed in long robes and tall, pointed hoods that completely cover their faces save for two small eyeholes, and women dressed in 
-   traditional costume.</li>
-  <li>The high point of the procession is when the floats exit and enter their respective churches. This is the moment when art and religion seem to merge into one. The 
-   sculptures of the religious images are created by superb craftsmen; the best floats date back to the 16th and 17th centuries and can still be seen today.</li>
+   country.</li>
+  <li>Semana Santa festivities vary by region, each displaying their own special flavor. What they all have in common is a passionate observance of tradition that attracts 
+   the devout and the curious each year, who gather on streets and squares to experience the intense ambience produced by the marching bands and costaleros, who carry 
+   elaborate floats topped with statues of religious figures.</li>
+  <li>The costaleros (float bearers) are led by the capataz (foreman), who’s responsible for ensuring that everyone marches perfectly together, creating a solemn and 
+   hypnotizing rhythm. The floats are followed by nazarenos, dressed in long robes and tall, pointed hoods that completely cover their faces save for two small eyeholes, and 
+   women dressed in raditional costume.</li>
+  <li>The high point of the procession is when the floats exit and enter their respective churches.</li>
   <li>Emotions are stirred by the slow, rhythmic beating of the drums and processional marches, the swaying paces of the float bearers and the poignant wailing of the saetas, 
    flamenco-inspired verses sung during the processions.</li>
-  <li>Even if you are not religious, it is difficult not to be moved by an atmosphere so vital and poignant. For some it is a fun-filled fiesta time, for others a week of 
-   ritual and reflection. Without a doubt, the traditions of Semana Santa form an integral part of Spanish culture and identity.</li>
   </ul> 
   </div>
  
