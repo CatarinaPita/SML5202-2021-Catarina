@@ -28,14 +28,14 @@ title: Help
 <h5>Need a bit more help? Here are a few helpful links:
        
 <ul>
-  <li>For any additional information please click <a href="">here</a></li>
-  <li>For any additional information please click <a href="">here</a></li>
+  <li>For any additional information about other Spanish events click <a href="https://www.donquijote.org/spanish-culture/holidays/">here</a></li>
+  <li>For any additional information about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
   <li>For any additional information please click <a href="">here</a></li>
   <li>For any additional information please click <a href="">here</a></li>
   </ul>       
 </div>
  
- 
+ </div>
         
 <hr>
         
