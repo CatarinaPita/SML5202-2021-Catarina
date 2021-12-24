@@ -23,7 +23,7 @@ title: Help
  <div class="row">
 <div class="col-sm-4">
 <h3 style="color:CornflowerBlue">La Siesta</h3>
-<p><img src="https://openclipart.org/download/330067/man-sleeping.svg" alt="La Siesta" width="400" height="222"></p>
+<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" alt="La Siesta" width="400" height="222"></p>
  
   <ul>
   <li>The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
@@ -34,30 +34,18 @@ title: Help
   </ul> 
 </div>
  
-<div class="col-sm-4">
+<div class="col-sm-8">
 <h3 style="color:SaddleBrown">Café</h3>
 <p><img src="https://www.coffeegeek.com/wp-content/uploads/2019/09/americano-1-500x333.jpg" alt="Café" width="400" height="222"></p>
 
-  <ul>
-  <li>Spain has a strong coffee culture, and it is not uncommon to drink four or five cups of coffee a day at all hours of the day. Café con leche, which is half strong black 
-   coffee and half milk, is by far the most popular way to drink java in Spain. You might be asked how you want your milk – caliente (hot), templada (warm), or fría (cold).</li>
-  <li>If a café con leche is too big for you, you can try a café cortado instead, which is a smaller version with only a touch of milk. Or if you’re craving something 
-   stronger, try a café solo, which is a small glass of nothing but strong black coffee.</li>
-  </ul> 
- </div>
+ <ul>
+  <li>For any additional information about other Spanish events click <a href="https://www.donquijote.org/spanish-culture/holidays/">here</a></li>
+  <li>For any additional information about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
+  <li>For any additional information please click <a href="">here</a></li>
+  </ul>       
+</div>
  
- <div class="col-sm-4">
- <h3 style="color:MediumPurple">Dos Besos En La Mejilla</h3>
-  <p><img src="https://live.staticflickr.com/1911/44907602981_c97d5fc571_b.jpg" alt="greeting kiss" width="400" height="222"></p>
- 
-  <ul>
-  <li> In Spain, people greet each other and say goodbye with a kiss on each cheek.</li>
-  <li>People usually touch their right cheeks together and make a kissing sound, then repeat the process on the left side.</li>
-  <li>Spaniards don’t do this every morning when they come into work, but if you meet a friend for drinks or are introduced to someone new, the double cheek kiss is given to 
-   say hello and goodbye.</li>
-  <li>Women are always greeted this way, but two men shake hands with each other unless they are relatives.</li>
-  </ul> 
-  </div>
  
  </div>
 
