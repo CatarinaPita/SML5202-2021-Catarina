@@ -14,6 +14,69 @@
 
 
 
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+
+</style>
+</head>
+<body>
+<table>
+  <tr>
+    <th></th>
+    <th>-ar</th>
+    <th>-er/-ir</th>
+  </tr>
+  <tr>
+    <td>Yo</td>
+    <td>-e</td>
+    <td>-a</td>
+  </tr>
+  <tr>
+    <td>Tú</td>
+    <td>-es</td>
+    <td>-as</td>
+  </tr>
+  <tr>
+    <td>Usted, él, ella</td>
+    <td>-e</td>
+    <td>-a</td>
+  </tr>
+  <tr>
+    <td>Nosotros</td>
+    <td>-emos</td>
+    <td>-amos</td>
+  </tr>
+  <tr>
+    <td>Vosotros</td>
+    <td>-éis</td>
+    <td>-áis</td>
+  </tr>
+  <tr>
+    <td>Ustedes, ellos, ellas</td>
+    <td>-en</td>
+    <td>-an</td>
+  </tr>
+</table>
+
+</body>
+
+
 <h3 lang="es">Semana 2</h3>
 
 <p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
