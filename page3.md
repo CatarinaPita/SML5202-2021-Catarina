@@ -1,3 +1,8 @@
+---
+title: Learn
+---
+
+
 <h1 lang="es">¿Listos Para Aprender? </h1>
 
 <p>This page will be updated with new content every Monday and all the previous content will remain here so you can catch up.</p>
