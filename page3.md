@@ -37,6 +37,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
+ <h4>Endings for Regular Verbs:</h4>
 
 </style>
 </head>
