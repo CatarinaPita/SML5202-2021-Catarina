@@ -1,4 +1,26 @@
-<h1>Page 3</h1>
+<h1 lang="es">¿Listos Para Aprender? </h1>
+
+<p>This page will be updated with new content every Monday and all the previous content will remain here so you can catch up.</p>
+
+<h3 lang="es">Semana 1</h3>
+
+
+<p>Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>.</p>
+
+<p>El presente de subjuntivo (Spanish present subjunctive) can be better defined as a grammatical mood rather than a proper tense and is used in Spanish to express personal 
+ opinions, unreal or hypothetical wishes, doubts, commands or feelings in the present or the future.</p>
+  
+<p>Look at this table below to help you remmeber the when it is used for and some examples:</p>
+
+
+
+<h3 lang="es">Semana 2</h3>
+
+<p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
+
+<p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly.</p>
+<p></p>
+
 <iframe src="https://h5p.org/h5p/embed/1229083" width="1090" height="683" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Dialog Cards"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
