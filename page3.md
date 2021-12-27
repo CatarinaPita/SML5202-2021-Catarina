@@ -137,6 +137,13 @@ tr:nth-child(even) {
 <p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly.</p>
 <p></p>
 
+<hr>
+<h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
+<p>The content for this week will be uploaded next Moday!</p>
+
+<hr>
+
+
 <iframe src="https://h5p.org/h5p/embed/1229083" width="1090" height="683" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Dialog Cards"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
