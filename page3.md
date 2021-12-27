@@ -17,10 +17,58 @@ title: Learn
   
 <p>Look at this table below to help you remmeber the when it is used for and some examples:</p>
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>TH elements define table headers</h2>
+
+<table style="width:80%">
+  <tr>
+    <th>Uses</th>
+    <th>Examples</th>
+    
+  </tr>
+  <tr>
+    <td><strong>W</strong>ishes</td>
+    <td>Quiero que...   Deseamos que...</td>
+    
+  </tr>
+  <tr>
+    <td><strong>E</strong>motions</td>
+    <td>Estoy contento que...   Tenemos que...</td>
+   
+  </tr>
+   <tr>
+    <td><strong>I</strong>mpersonal Expressions</td>
+    <td>Es necesario que...   Es importante que...</td>
+    
+  </tr>
+   <tr>
+    <td><strong>R</strong>equest/Reccomendations</td>
+    <td>Sugieres que...   Recomenda que...</td>
+   
+  </tr>
+   <tr>
+    <td><strong>D</strong>oubt</td>
+    <td>Dudo que...   No piensan que...</td>
+    
+  </tr>
+   <tr>
+    <td><strong>O</strong>jalá</td>
+    <td>Ojalá que...   Espero que...</td>
+    
+  </tr>
+  
+</table>
+
+</body>
 
 
-
-<p>Endings for Regular Verbs:<p>
+<p><strong>Endings for Regular Verbs:</strong></p>
 <head>
 <style>
 table {
