@@ -20,12 +20,13 @@ title: Learn
 
 
 
+<p>Endings for Regular Verbs:<p>
 <head>
 <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 70%;
+  width: 60%;
 }
 
 td, th {
@@ -38,7 +39,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
- <h4>Endings for Regular Verbs:</h4>
 
 </style>
 </head>
