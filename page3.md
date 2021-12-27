@@ -139,7 +139,7 @@ tr:nth-child(even) {
 
 <hr>
 <h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
-<p>The content for this week will be uploaded next Moday!</p>
+<p>The content for this week will be uploaded next Monday!</p>
 
 <hr>
 
