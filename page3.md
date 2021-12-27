@@ -24,9 +24,7 @@ table, th, td {
 </style>
 <body>
 
-<h2>TH elements define table headers</h2>
-
-<table style="width:80%">
+<table style="width:50%">
   <tr>
     <th>Uses</th>
     <th>Examples</th>
