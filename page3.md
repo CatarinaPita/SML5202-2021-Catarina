@@ -8,14 +8,14 @@ title: Learn
 
 <hr>
 
-<h3 lang="es" style="color:DodgerBlue">Semana 1</h3>
+<h3 lang="es" style="color:DodgerBlue"><strong>Semana 1</strong></h3>
 
 <p>Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>.</p>
 
 <p>El presente de subjuntivo (Spanish present subjunctive) can be better defined as a grammatical mood rather than a proper tense and is used in Spanish to express personal 
  opinions, unreal or hypothetical wishes, doubts, commands or feelings in the present or the future.</p>
   
-<p style="color:Black">Look at this table below to help you remmeber the when it is used for and some examples:</p>
+<p style="color:Black"><strong>Look at this table below to help you remmeber the when it is used for and some examples:</strong></p>
 
 <style>
 table, th, td {
@@ -66,7 +66,7 @@ table, th, td {
 </body>
 
 
-<p style="color:Black">Endings for Regular Verbs:</p>
+<p style="color:Black"><strong>Endings for Regular Verbs:</strong></p>
 <head>
 <style>
 table {
@@ -130,7 +130,7 @@ tr:nth-child(even) {
 </body>
 
 <hr>
-<h3 lang="es" style="color:MediumVioletRed">Semana 2</h3>
+<h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
 
 <p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
 
