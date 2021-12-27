@@ -2,13 +2,13 @@
 title: Learn
 ---
 
-
 <h1 lang="es">¿Listos Para Aprender? </h1>
 
 <p>This page will be updated with new content every Monday and all the previous content will remain here so you can catch up.</p>
 
-<h3 lang="es">Semana 1</h3>
+<hr>
 
+<h3 lang="es">Semana 1</h3>
 
 <p>Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>.</p>
 
@@ -19,12 +19,13 @@ title: Learn
 
 
 
+
 <head>
 <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 70%;
 }
 
 td, th {
@@ -82,7 +83,7 @@ tr:nth-child(even) {
 
 </body>
 
-
+<hr>
 <h3 lang="es">Semana 2</h3>
 
 <p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
