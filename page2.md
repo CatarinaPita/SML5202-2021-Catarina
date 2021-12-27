@@ -115,7 +115,7 @@ title: Culture
 <hr> 
 <h3>Ready For Some Fun Activities?</h3>
 
-<h5> Actividad 1:</h5>  
+<h5 style="color:MediumSpringGreen"><strong>Actividad 1:</strong></h5>  
 
 <iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -123,7 +123,7 @@ title: Culture
 
 <iframe src="https://h5p.org/h5p/embed/1236816" width="1090" height="749" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Fill in the Blanks"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h5> Actividad 2:</h5> 
+<h5 style="color:MediumSpringGreen"><strong>Actividad 2:</strong></h5> 
 
 <iframe src="https://h5p.org/h5p/embed/1237706" width="1090" height="853" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Word Search"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
