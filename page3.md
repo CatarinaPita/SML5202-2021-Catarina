@@ -12,10 +12,11 @@ title: Learn
 
 <p>Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>.</p>
 
-<p>El presente de subjuntivo (Spanish present subjunctive) can be better defined as a grammatical mood rather than a proper tense and is used in Spanish to express personal 
- opinions, unreal or hypothetical wishes, doubts, commands or feelings in the present or the future.</p>
+<p> What is the present subjunctive?
+ 
+The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, uncertainties and doubts, desires, feelings and advice.</p>
   
-<p style="color:Black"><strong>Look at this table below to help you remmeber the when it is used for and some examples:</strong></p>
+<p style="color:Black"><strong>The following table shows you the acronym "WEIRDO" which helps you remember when to use the present subjunctive along with some examples:</strong></p>
 
 <style>
 table, th, td {
@@ -64,6 +65,10 @@ table, th, td {
 </table>
 
 </body>
+
+<p>Like any other tense, the subjuntive has rules when it comes to changing the verb</p>
+
+
 
 
 <p style="color:Black"><strong>Endings for Regular Verbs:</strong></p>
