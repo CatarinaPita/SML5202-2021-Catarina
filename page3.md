@@ -10,11 +10,12 @@ title: Learn
 
 <h3 lang="es" style="color:DodgerBlue"><strong>Semana 1</strong></h3>
 
-<p>Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>.</p>
+<p>¡Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>!.</p>
 
-<p> What is the present subjunctive?
+
+<p><strong> What is the present subjunctive?</strong></p>
  
-The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, uncertainties and doubts, desires, feelings and advice.</p>
+<p>The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, uncertainties and doubts, desires, feelings and advice.</p>
   
 <p style="color:Black"><strong>The following table shows you the acronym "WEIRDO" which helps you remember when to use the present subjunctive along with some examples:</strong></p>
 
@@ -137,13 +138,13 @@ tr:nth-child(even) {
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
 
-<p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
+<p lang="es">¡Esta semana vamos a repasar el <strong>imperativo!</strong></p>
 
 <p><strong>What is the Imperative in Spanish Grammar?</strong></p>
 <p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly. There are 
  different conjugations for the tú, usted, ustedes, nosotros and vosotros forms.</p>
  
-<p>A quick example of an imperative would be:¡Subid!(Get in!)</p>
+<p>A quick example of an imperative would be: ¡Subid! (Get in!)</p>
 
 <p><strong>We use the imperative to:</strong></p>
 
@@ -154,10 +155,16 @@ tr:nth-child(even) {
  <li>makr requests;</li> 
   </ul> 
   
- <p><strong>How to conjugate the Imperative in Spanish Grammar</strong></p>
+ <p><strong>How to conjugate the Imperative in Spanish Grammar:</strong></p>
  
+ <p>The imperative is always conjugated without a personal pronoun and in the present tense, in either the indicative or the subjunctive mood.</p>
  
-
+ <ul>
+ <li><strong>2nd person singular (tú)</strong></li> 
+ </ul> 
+ 
+ <p>To conjugate the imperative in the 2nd person singular (tú) we use the 3rd person singular form of the present indicative. However, to form a negative imperative, we use 
+  the 2nd person singular form of the present subjunctive. The personal pronoun is not used.</p>
 
 
 
