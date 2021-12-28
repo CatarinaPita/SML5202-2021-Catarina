@@ -139,8 +139,29 @@ tr:nth-child(even) {
 
 <p lang="es">Esta semana vamos a repasar el <strong>imperativo</strong></p>
 
-<p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly.</p>
-<p></p>
+<p><strong>What is the Imperative in Spanish Grammar?</strong></p>
+<p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly. There are 
+ different conjugations for the tú, usted, ustedes, nosotros and vosotros forms.</p>
+ 
+<p>A quick example of an imperative would be:¡Subid!(Get in!)</p>
+
+<p><strong>We use the imperative to:</strong></p>
+
+<ul>
+ <li>make suggestions or proposals;</li> 
+ <li>give order;</li> 
+ <li>give advice;</li> 
+ <li>makr requests;</li> 
+  </ul> 
+  
+ <p><strong>How to conjugate the Imperative in Spanish Grammar</strong></p>
+ 
+ 
+
+
+
+
+
 
 <hr>
 <h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
