@@ -149,15 +149,15 @@ tr:nth-child(even) {
 <p><strong>We use the imperative to:</strong></p>
 
 <ul>
- <li>make suggestions or proposals;</li> 
- <li>give order;</li> 
+ <li>make suggestions/proposals;</li> 
+ <li>give orders;</li> 
  <li>give advice;</li> 
- <li>makr requests;</li> 
+ <li>make requests;</li> 
   </ul> 
   
  <p><strong>How to conjugate the Imperative in Spanish Grammar:</strong></p>
  
- <p>The imperative is always conjugated without a personal pronoun and in the present tense, in either the indicative or the subjunctive mood.</p>
+ <p>The imperative is always conjugated without a personal pronoun and in the present tense, in the indicative or the subjunctive mood.</p>
  
  <ul>
  <li><strong>2nd person singular (tú)</strong></li> 
@@ -166,7 +166,52 @@ tr:nth-child(even) {
  <p>To conjugate the imperative in the 2nd person singular (tú) we use the 3rd person singular form of the present indicative. However, to form a negative imperative, we use 
   the 2nd person singular form of the present subjunctive. The personal pronoun is not used.</p>
   
- <p>table!!!!!!!!</p> 
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Infinitivo</th>
+    <th>Afirmativo (indicative in 3rd person singular)</th>
+    <th>Negativo (subjunctive in 2nd person singular)</th>
+  </tr>
+  <tr>
+    <td>Comprar</td>
+    <td>¡Compra!</td>
+    <td>¡No compres!</td>
+  </tr>
+  <tr>
+    <td>Comer</td>
+    <td>¡Come!</td>
+    <td>¡No comas!</td>
+  </tr>
+  <tr>
+    <td>Partir</td>
+    <td>¡Parte!</td>
+    <td>¡No Partas!</td>
+  </tr>
+  </table>
+
+</body> 
 
 <ul>
  <li><strong>2nd person plural (vosotros/vosotras)</strong></li> 
