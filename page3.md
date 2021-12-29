@@ -15,9 +15,11 @@ title: Learn
 
 <p><strong> What is the present subjunctive?</strong></p>
  
-<p>The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, uncertainties and doubts, desires, feelings and advice.</p>
+<p>The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, 
+ uncertainties and doubts, desires, feelings and advice.</p>
   
-<p style="color:Black"><strong>The following table shows you the acronym "WEIRDO" which helps you remember when to use the present subjunctive along with some examples:</strong></p>
+<p style="color:Black"><strong>The following table shows you the acronym "WEIRDO" which helps you remember when to use the present subjunctive along with some examples:
+ </strong></p>
 
 <style>
 table, th, td {
@@ -333,7 +335,52 @@ tr:nth-child(even) {
 
 <p>To conjugate an imperative in the polite form in plural, we use the 3rd person plural of the present subjunctive, omitting the personal pronoun.</p> 
 
-<p>table!!!!!!!!</p> 
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Infinitivo</th>
+    <th>Afirmativo (subjunctive in 3rd person plural)</th>
+    <th>Negativo (subjunctive in 3nd person plural)</th>
+  </tr>
+  <tr>
+    <td>Comprar</td>
+    <td>¡Compren!</td>
+    <td>¡No compren!</td>
+  </tr>
+  <tr>
+    <td>Comer</td>
+    <td>¡Coman!</td>
+    <td>¡No coman!</td>
+  </tr>
+  <tr>
+    <td>Partir</td>
+    <td>¡Partan!</td>
+    <td>¡No partan!</td>
+  </tr>
+  </table>
+
+</body>
 
 <ul>
  <li><strong>1st person plural (nosotros/nosotras)</strong></li> 
@@ -342,7 +389,52 @@ tr:nth-child(even) {
 <p>To conjugate the imperative in the 1st person plural (nosotros) we use the 1st person plural form of the present subjunctive for both the positive and negative forms, 
  omitting the personal pronoun.</p> 
  
- <p>table!!!!!!!!</p> 
+ <head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Infinitivo</th>
+    <th>Afirmativo (subjunctive in 1st person plural)</th>
+    <th>Negativo (subjunctive in 1st person plural)</th>
+  </tr>
+  <tr>
+    <td>Comprar</td>
+    <td>¡Compremos!</td>
+    <td>¡No compremos!</td>
+  </tr>
+  <tr>
+    <td>Comer</td>
+    <td>¡Comamos!</td>
+    <td>¡No comamos!</td>
+  </tr>
+  <tr>
+    <td>Partir</td>
+    <td>¡Partamos!</td>
+    <td>¡No partamos!</td>
+  </tr>
+  </table>
+
+</body>
 
 
 <hr>
