@@ -163,15 +163,15 @@ tr:nth-child(even) {
  <li><strong>2nd person singular (tú)</strong></li> 
  </ul> 
  
- <p>To conjugate the imperative in the 2nd person singular (tú) we use the 3rd person singular form of the present indicative. However, to form a negative imperative, we use 
-  the 2nd person singular form of the present subjunctive. The personal pronoun is not used.</p>
+ <p>To conjugate the positive imperative in the 2nd person singular (tú) we have to use the 3rd person singular form of the present indicative. However, to form a negative 
+ imperative, we have to use the 2nd person singular form of the present subjunctive (The personal pronoun is not used).</p>
   
 <head>
 <style>
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 60%;
+  width: 50%;
 }
 
 td, th {
@@ -213,6 +213,11 @@ tr:nth-child(even) {
 
 </body> 
 
+
+<p><strong>Unfortunately, there are a few irrugular verbs (imperative forms in the 2nd person singular) we have to look at and remember</strong>:
+ 
+ -------------------------------------------------------------------------------
+
 <ul>
  <li><strong>2nd person plural (vosotros/vosotras)</strong></li> 
  </ul> 
@@ -220,7 +225,52 @@ tr:nth-child(even) {
  <p>To conjugate the positive imperative for the 2nd person plural (vosotros) we take the infinitive and replace the -r with a -d. In the negative form, we take the 2nd    
  person plural of the present subjunctive, omitting the personal pronoun.</p>
 
- <p>table!!!!!!!!!!!!</p> 
+ <head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Infinitivo</th>
+    <th>Afirmativo (replace infinitive-r with -d)</th>
+    <th>Negativo (subjunctive in 2nd person plural)</th>
+  </tr>
+  <tr>
+    <td>Comprar</td>
+    <td>¡Comprad!</td>
+    <td>¡No compréis!</td>
+  </tr>
+  <tr>
+    <td>Comer</td>
+    <td>¡Comed!</td>
+    <td>¡No comáis!</td>
+  </tr>
+  <tr>
+    <td>Partir</td>
+    <td>¡Partid!</td>
+    <td>¡No partáis!</td>
+  </tr>
+  </table>
+
+</body>
 
 
 <ul>
@@ -230,7 +280,52 @@ tr:nth-child(even) {
 <p>To conjugate the imperative in the polite form (usted), we use the 3rd person singular of the present subjunctive for both the positive and negative forms, omitting the 
  personal pronoun.</p> 
 
-<p>table!!!!!!!!</p> 
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+<table>
+  <tr>
+    <th>Infinitivo</th>
+    <th>Afirmativo (subjunctive in 3rd person singular)</th>
+    <th>Negativo (subjunctive in 3nd person singular)</th>
+  </tr>
+  <tr>
+    <td>Comprar</td>
+    <td>¡Compre!</td>
+    <td>¡No compre!</td>
+  </tr>
+  <tr>
+    <td>Comer</td>
+    <td>¡Coma!</td>
+    <td>¡No coma!</td>
+  </tr>
+  <tr>
+    <td>Partir</td>
+    <td>¡Parta!</td>
+    <td>¡No parta!</td>
+  </tr>
+  </table>
+
+</body>
 
 <ul>
  <li><strong>3rd person plural (ustedes)</strong></li> 
