@@ -138,7 +138,7 @@ tr:nth-child(even) {
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
 
-<p lang="es">¡Esta semana vamos a repasar el <strong>imperativo!</strong></p>
+<p lang="es">¡Esta semana vamos a repasar el <strong>imperativo</strong>!</p>
 
 <p><strong>What is the Imperative in Spanish Grammar?</strong></p>
 <p>El imperativo (the Spanish imperative) is a verbal form that speakers use to give orders, advice or make requests and suggestions to one or more people directly. There are 
@@ -165,9 +165,44 @@ tr:nth-child(even) {
  
  <p>To conjugate the imperative in the 2nd person singular (tú) we use the 3rd person singular form of the present indicative. However, to form a negative imperative, we use 
   the 2nd person singular form of the present subjunctive. The personal pronoun is not used.</p>
+  
+ <p>table!!!!!!!!</p> 
+
+<ul>
+ <li><strong>2nd person plural (vosotros/vosotras)</strong></li> 
+ </ul> 
+ 
+ <p>To conjugate the positive imperative for the 2nd person plural (vosotros) we take the infinitive and replace the -r with a -d. In the negative form, we take the 2nd    
+ person plural of the present subjunctive, omitting the personal pronoun.</p>
+
+ <p>table!!!!!!!!!!!!</p> 
 
 
+<ul>
+ <li><strong>3rd person singular (usted)</strong></li> 
+ </ul> 
 
+<p>To conjugate the imperative in the polite form (usted), we use the 3rd person singular of the present subjunctive for both the positive and negative forms, omitting the 
+ personal pronoun.</p> 
+
+<p>table!!!!!!!!</p> 
+
+<ul>
+ <li><strong>3rd person plural (ustedes)</strong></li> 
+ </ul> 
+
+<p>To conjugate an imperative in the polite form in plural, we use the 3rd person plural of the present subjunctive, omitting the personal pronoun.</p> 
+
+<p>table!!!!!!!!</p> 
+
+<ul>
+ <li><strong>1st person plural (nosotros/nosotras)</strong></li> 
+ </ul> 
+
+<p>To conjugate the imperative in the 1st person plural (nosotros) we use the 1st person plural form of the present subjunctive for both the positive and negative forms, 
+ omitting the personal pronoun.</p> 
+ 
+ <p>table!!!!!!!!</p> 
 
 
 <hr>
