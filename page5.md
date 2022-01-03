@@ -2,7 +2,11 @@
 layout: default
 title: Help
 ---
-<h3>Need Any Help?</h3>
+<h1>Need Any Help?</h1>
+<p>In this page you will be able to get the help you want! However, if you think you need some extra help you can email me at CatarinaPita@email.com and we can book a private lesson with me.</p>
+
+
+<hr>
 <p>Use this Wikipedia search button below to search for anything you'd like information on.</p>
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
