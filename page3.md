@@ -1,6 +1,10 @@
 ---
 title: Learn
 ---
+<style>
+h1 {text-align: center;}
+
+</style>
 
 <h1 lang="es">¿Listos Para Aprender? </h1>
 
