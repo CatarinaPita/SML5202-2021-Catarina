@@ -26,7 +26,6 @@ table, th, td {
   border:1px solid black;
 }
 </style>
-<body>
 
 <table style="width:50%">
   <tr>
@@ -67,7 +66,6 @@ table, th, td {
   
 </table>
 
-</body>
 
 <p>Like any other tense, the subjuntive has rules when it comes to changing the verb</p>
 
@@ -95,8 +93,7 @@ tr:nth-child(even) {
 
 
 </style>
-</head>
-<body>
+
 <table>
   <tr>
     <th></th>
@@ -135,7 +132,7 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-</body>
+
 
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
@@ -168,7 +165,7 @@ tr:nth-child(even) {
  <p>To conjugate the positive imperative in the 2nd person singular (tú) we have to use the 3rd person singular form of the present indicative. However, to form a negative 
  imperative, we have to use the 2nd person singular form of the present subjunctive (The personal pronoun is not used).</p>
   
-<head>
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -186,9 +183,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
-
 
 <table>
   <tr>
@@ -213,7 +207,6 @@ tr:nth-child(even) {
   </tr>
   </table>
 
-</body> 
 
 
 <p><strong>Unfortunately, there are a few irrugular verbs (imperative forms in the 2nd person singular) we have to look at and remember</strong>:
@@ -227,7 +220,6 @@ tr:nth-child(even) {
  <p>To conjugate the positive imperative for the 2nd person plural (vosotros) we take the infinitive and replace the -r with a -d. In the negative form, we take the 2nd    
  person plural of the present subjunctive, omitting the personal pronoun.</p>
 
- <head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -245,9 +237,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
-
 
 <table>
   <tr>
@@ -272,8 +261,6 @@ tr:nth-child(even) {
   </tr>
   </table>
 
-</body>
-
 
 <ul>
  <li><strong>3rd person singular (usted)</strong></li> 
@@ -282,7 +269,6 @@ tr:nth-child(even) {
 <p>To conjugate the imperative in the polite form (usted), we use the 3rd person singular of the present subjunctive for both the positive and negative forms, omitting the 
  personal pronoun.</p> 
 
-<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -300,9 +286,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
-
 
 <table>
   <tr>
@@ -327,15 +310,12 @@ tr:nth-child(even) {
   </tr>
   </table>
 
-</body>
-
 <ul>
  <li><strong>3rd person plural (ustedes)</strong></li> 
  </ul> 
 
 <p>To conjugate an imperative in the polite form in plural, we use the 3rd person plural of the present subjunctive, omitting the personal pronoun.</p> 
 
-<head>
 <style>
 table {
   font-family: arial, sans-serif;
@@ -353,8 +333,7 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
+
 
 
 <table>
@@ -380,7 +359,6 @@ tr:nth-child(even) {
   </tr>
   </table>
 
-</body>
 
 <ul>
  <li><strong>1st person plural (nosotros/nosotras)</strong></li> 
@@ -389,7 +367,7 @@ tr:nth-child(even) {
 <p>To conjugate the imperative in the 1st person plural (nosotros) we use the 1st person plural form of the present subjunctive for both the positive and negative forms, 
  omitting the personal pronoun.</p> 
  
- <head>
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -407,8 +385,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
 
 
 <table>
@@ -434,7 +410,6 @@ tr:nth-child(even) {
   </tr>
   </table>
 
-</body>
 
 
 <hr>
