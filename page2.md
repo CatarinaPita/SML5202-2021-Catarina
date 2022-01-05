@@ -116,7 +116,6 @@ h1 {text-align: center;}
  
  </div>
   
-</body>
   
 <hr> 
 <h3>Ready For Some Fun Activities?</h3>
