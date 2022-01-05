@@ -1,6 +1,10 @@
 ---
 title: Practice
 ---
+<style>
+h1 {text-align: center;}
+
+</style>
 
 <h1 style="color:Violet">Get Ready, Set, Practice!</h1>
 
