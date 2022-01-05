@@ -1,17 +1,13 @@
 ---
 title: Culture
 ---
-<head>
 <style>
 h1 {text-align: center;}
 
 </style>
-</head>
-<body>
 
 <h1>All About Spanish Culture!</h1>
 
-</body>
 
 <p>Spain is famous around the world for Flamenco music and dance, bullfights, fantastic beaches, and lots of sunshine. But what people sometimes forget is that Spain has been 
  one of the cultural centers of Europe for thousands of years.</p>
