@@ -425,24 +425,23 @@ tr:nth-child(even) {
 <ul>
  <li><p>in the 1st person plural we take away the s;</p></li> 
  </ul> 
- <p lang="es"><strong>Ejemplo:</strong></p>
-<p lang="es">¡Abrochémonos el cinturón! (not: abrochémosnos)</p>
+ <p lang="es"><strong>Ejemplo:</strong> ¡Abrochémonos el cinturón! (not: abrochémosnos)</p>
+
  
  <ul>
  <li><p>in the 2nd person plural we take away the d;</p></li> 
  </ul> 
 
-<p lang="es"><strong>Ejemplo:</strong></p>
-<p lang="es">¡Abrochaos el cinturón! (not: abrochados)</p>
+<p lang="es"><strong>Ejemplo:</strong> ¡Abrochaos el cinturón! (not: abrochados)</p>
+
  
  
 <ul>
  <li><p>In negative imperatives, reflexive pronouns appear after the negation no and before the verb;</p></li> 
  </ul>
 
-<p lang="es"><strong>Ejemplo:</strong></p>
-<p lang="es">No te abroches el cinturón.</p>
- 
+<p lang="es"><strong>Ejemplo:</strong> No te abroches el cinturón.</p>
+
 
 
 <hr>
