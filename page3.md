@@ -455,7 +455,48 @@ tr:nth-child(even) {
 <p lang="es"><strong>Ejemplo:</strong> No te abroches el cinturón.</p>
 
 
+<p>---------------------------------------</p>
+ 
+<p><strong>Direct and Indirect Objects in the Imperative</strong></p>
+ 
+<p>When forming a sentence in the imperative that uses direct or indirect object pronouns (DO or IO), the pronouns are attached to the end of the verb.</p>
 
+<ul>
+ <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
+ </ul>
+  
+<p>Cerrar <u>la puerta</u>. (DO) → Ciérra<u>la</u>. (Close it) (2nd person sing.)</p>
+<p>Comprar una falda <u>a ella</u>. (IO) → Cómpra<u>le</u> una falda. (Buy her a skirt) (2nd person sing.)</p>
+<p>Comprar <u>una falda a ella<u>. (DO + IO) → Cómpraselo. (Buy her one) (2nd person sing.)</p>
+ 
+<p>If the sentence is negative, the pronouns come before the verb.</p>
+
+ <ul>
+ <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
+ </ul>
+ 
+<p lang="es">No <u>la</u> abras. (Don't open it)</p>
+<p lang="es">No <u>le</u> compres una falda. (Don't buy her a skirt)</p>
+<p lang="es">No <u>se la</u> compres. (Don't buy it)</p>
+ 
+ 
+<p>If the verb is also reflexive, in a positive imperative the reflexive pronoun is attached to the end of the verb first, followed by the direct object pronoun.</p>
+
+<ul>
+ <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
+ </ul>
+ 
+<p lang="es">Abrócharse <u>el cinturón</u>. (DO) → Abróchat<u>elo</u>. (2nd person singular)</p>
+ 
+<p>In the case of a negative imperative, the reflexive pronoun comes after the negation no followed by the direct object pronoun.</p>
+
+<ul>
+ <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
+ </ul>
+<p lang="es">No te <u>lo compres</u>. (2nd person singular)</p>
+ 
+ 
+ 
 <hr>
 <h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
 <p>The content for this week will be uploaded next Monday!</p>
