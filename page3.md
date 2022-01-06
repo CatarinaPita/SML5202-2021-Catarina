@@ -467,7 +467,7 @@ tr:nth-child(even) {
   
 <p>Cerrar <u>la puerta</u>. (DO) → Ciérra<u>la</u>. (Close it) (2nd person sing.)</p>
 <p>Comprar una falda <u>a ella</u>. (IO) → Cómpra<u>le</u> una falda. (Buy her a skirt) (2nd person sing.)</p>
-<p>Comprar <u>una falda a ella<u>. (DO + IO) → Cómpraselo. (Buy her one) (2nd person sing.)</p>
+<p>Comprar <u>una falda a ella</u>. (DO + IO) → Cómpraselo. (Buy her one) (2nd person sing.)</p>
  
 <p>If the sentence is negative, the pronouns come before the verb.</p>
 
