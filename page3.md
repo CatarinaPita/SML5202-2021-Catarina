@@ -430,18 +430,18 @@ tr:nth-child(even) {
  
  <p><strong>Reflexive Verbs</strong></p>
   
-<p>In the positive form of the imperative, the reflexive pronoun or object pronoun is attached to the verb.</p>
+<p style="color:Black">In the positive form of the imperative, the reflexive pronoun or object pronoun is attached to the verb.</p>
  
 <p><strong>¡Necesitas recordar lo siguiente!:</strong></p>
 
 <ul>
- <li><p>in the 1st person plural we take away the s;</p></li> 
+ <li><p style="color:Black">in the 1st person plural we take away the s;</p></li> 
  </ul> 
  <p lang="es"><strong>Ejemplo:</strong> ¡Abrochémonos el cinturón! (not: abrochémosnos)</p>
 
  
  <ul>
- <li><p>in the 2nd person plural we take away the d;</p></li> 
+ <li><p style="color:Black">in the 2nd person plural we take away the d;</p></li> 
  </ul> 
 
 <p lang="es"><strong>Ejemplo:</strong> ¡Abrochaos el cinturón! (not: abrochados)</p>
@@ -449,7 +449,7 @@ tr:nth-child(even) {
  
  
 <ul>
- <li><p>In negative imperatives, reflexive pronouns appear after the negation no and before the verb;</p></li> 
+ <li><p style="color:Black">In negative imperatives, reflexive pronouns appear after the negation no and before the verb;</p></li> 
  </ul>
 
 <p lang="es"><strong>Ejemplo:</strong> No te abroches el cinturón.</p>
@@ -459,7 +459,7 @@ tr:nth-child(even) {
  
 <p><strong>Direct and Indirect Objects in the Imperative</strong></p>
  
-<p>When forming a sentence in the imperative that uses direct or indirect object pronouns (DO or IO), the pronouns are attached to the end of the verb.</p>
+<p style="color:Black">When forming a sentence in the imperative that uses direct or indirect object pronouns (DO or IO), the pronouns are attached to the end of the verb.</p>
 
 <ul>
  <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
@@ -469,7 +469,7 @@ tr:nth-child(even) {
 <p>Comprar una falda <u>a ella</u>. (IO) → Cómpra<u>le</u> una falda. (Buy her a skirt) (2nd person sing.)</p>
 <p>Comprar <u>una falda a ella</u>. (DO + IO) → Cómpraselo. (Buy her one) (2nd person sing.)</p>
  
-<p>If the sentence is negative, the pronouns come before the verb.</p>
+<p style="color:Black">If the sentence is negative, the pronouns come before the verb.</p>
 
  <ul>
  <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
@@ -480,7 +480,7 @@ tr:nth-child(even) {
 <p lang="es">No <u>se la</u> compres. (Don't buy it)</p>
  
  
-<p>If the verb is also reflexive, in a positive imperative the reflexive pronoun is attached to the end of the verb first, followed by the direct object pronoun.</p>
+<p style="color:Black">If the verb is also reflexive, in a positive imperative the reflexive pronoun is attached to the end of the verb first, followed by the direct object pronoun.</p>
 
 <ul>
  <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
@@ -488,7 +488,7 @@ tr:nth-child(even) {
  
 <p lang="es">Abrócharse <u>el cinturón</u>. (DO) → Abróchat<u>elo</u>. (2nd person singular)</p>
  
-<p>In the case of a negative imperative, the reflexive pronoun comes after the negation no followed by the direct object pronoun.</p>
+<p style="color:Black">In the case of a negative imperative, the reflexive pronoun comes after the negation no followed by the direct object pronoun.</p>
 
 <ul>
  <li><p lang="es"><strong>Ejemplo:</strong></p></li> 
