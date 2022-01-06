@@ -414,7 +414,7 @@ tr:nth-child(even) {
   </tr>
   </table>
 
- <p><strong>Reflexive Verbs<strong></p>
+ <p><strong>Reflexive Verbs</strong></p>
   
 <p>In the positive form of the imperative, the reflexive pronoun or object pronoun is attached to the verb.</p>
  
