@@ -414,6 +414,24 @@ tr:nth-child(even) {
   </tr>
   </table>
 
+ <p><strong>Reflexive Verbs<strong></p>
+  
+<p>In the positive form of the imperative, the reflexive pronoun or object pronoun is attached to the verb.</p>
+ 
+<p><strong>¡Necesitas recordar lo siguiente!:</strong></p>
+
+<p>in the 1st person plural we take away the s;</p>
+<p lang="es">Ejemplo:</p>
+<p lang="es">¡Abrochémonos el cinturón! (not: abrochémosnos)</p>
+<p>in the 2nd person plural we take away the d;</p>
+
+<p lang="es">Ejemplo:</p>
+<p lang="es">¡Abrochaos el cinturón! (not: abrochados)</p>
+<p>In negative imperatives, reflexive pronouns appear after the negation no and before the verb;</p>
+
+<p lang="es">Ejemplo:</p>
+<p lang="es">No te abroches el cinturón.</p>
+ 
 
 
 <hr>
