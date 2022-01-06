@@ -213,9 +213,21 @@ tr:nth-child(even) {
 
 
 
-<p><strong>Unfortunately, there are a few irrugular verbs (imperative forms in the 2nd person singular) we have to look at and remember</strong>:
+<p><strong>Unfortunately, there are a few irrugular verbs (2nd person singular) we have to remember</strong>:
  
- -------------------------------------------------------------------------------
+ <ul>
+ <li> Decir - Di	(Say!)</li> 
+ <li> Hacer -	Haz	(Do/Make ...!)</li>
+ <li> Ir	- Ve	(Go!)</li> 
+ <li> Poner - Pon	(Put ...!)</li> 
+ <li> Salir	- Sal	(Go out!)</li> 
+ <li> Ser	- Sé	(Be ...!)</li> 
+ <li> Tener	- Ten	(Take!)</li> 
+ <li> Venir	- Ven	(Come!)</li>
+ </ul> 
+ 
+  
+----------------------------------------------------------------
 
 <ul>
  <li><strong>2nd person plural (vosotros/vosotras)</strong></li> 
