@@ -160,30 +160,43 @@ tr:nth-child(even) {
  <h5><strong>How to form the present subjunctive:</strong></h5>
  
  <ul> 
- <li><strong>Stem-changing verbs</strong></li>
+ <li style="color:Black"><strong>Stem-changing verbs</strong></li>
  </ul>  
   
  <p>Some verbs change the final vowel in their stem in their present subjunctive form.</p>
  
+ <p><strong>Las reglas:</strong></p>
+ 
+ <ol>
+  <li><strong>e → i</strong>  Ejemplo: Cons<u>e</u>guir - Cons<u>i</u>ga</li>
+  <li><strong>e → ie/e</strong>  Ejemplo: Emp<u>e</u>zar - Emp<u>ie</u>ce</li>
+  <li><strong>e → ie/i</strong>  Ejemplo: Div<u>e</u>rtir - Div<u>ie</u>rta</li>
+  <li><strong>o → ue/o</strong>  Ejemplo: V<u>o</u>lver - V<u>ue</u>lva</li>
+  <li><strong>o → ue/u</strong>  Ejemplo: Ll<u>o</u>ver - Ll<u>ue</u>va</li>
+  <li><strong>u → ue/u</strong>	 Ejemplo:j<u>u</u>gar	- j<u>ue</u>gue</li>
+</ol> 
+
+
  <ul> 
- <li><strong>Verbs with a consonant change</strong></li>
+ <li style="color:Black"><strong>Verbs with a consonant change</strong></li>
  </ul> 
+ 
+ <p>Some verbs change their spelling in the present subjunctive in order to preserve pronunciation.</p>
  
  <p><strong>Las reglas:</strong></p>
   
  <ol>
-  <li><strong>c → qu	</strong>  Ejemplo: Provocar - Provoque     </li>
-  <li><strong>c → z	</strong>  Ejemplo: Vencer - Venza     </li>
-  <li><strong>g → gu	</strong>  Ejemplo: Jugar - Juegue    </li>
- <li><strong>gu → g	</strong>  Ejemplo: Seguir - Siga     </li>
- <li><strong>g → j	</strong>  Ejemplo: Elegir - Elija     </li>
- <li><strong>z → c	</strong>  Ejemplo: Comenzar - Comience     </li>
+ <li><strong>c → qu	</strong>  Ejemplo: Provo<u>c</u>ar - Provo<u>que</u>    </li>
+   <li><strong>c → z	</strong>  Ejemplo: Ven<u>c</u>er - Ven<u>z</u>a     </li>
+   <li><strong>g → gu	</strong>  Ejemplo: Ju<u>g</u>ar - Jue<u>gu</u>e    </li>
+   <li><strong>gu → g	</strong>  Ejemplo: Se<u>gu</u>ir - Si<u>g</u>a     </li>
+   <li><strong>g → j	</strong>  Ejemplo: Ele<u>g</u>ir - Eli<u>j</u>a     </li>
+   <li><strong>z → c	</strong>  Ejemplo: Comen<u>z</u>ar - Comien<u>c</u>e     </li>
 </ol> 
 
  
- 
  <ul> 
- <li><strong>Verbs that gain an accent</strong></li>
+ <li style="color:Black"><strong>Verbs that gain an accent</strong></li>
  </ul> 
  
  <p>Because of the combination of vowels, some verbs take an accent in the 1st, 2nd and 3rd person singular as well as in the 3rd person plural in both the present indicative and subjunctive. </p>
@@ -194,7 +207,7 @@ tr:nth-child(even) {
  
  
  <ul> 
- <li><strong>Verbs that add a z</strong></li>
+ <li style="color:Black"><strong>Verbs that add a z</strong></li>
  </ul> 
  
  <p>The verbs (re)conocer, conducir, (des)obedecer, padecer, parecer and traducir add a z before the final c in the present subjunctive.</p>
@@ -205,7 +218,7 @@ tr:nth-child(even) {
 
  
  <ul> 
- <li><strong>Verbs that add a g</strong></li>
+ <li style="color:Black"><strong>Verbs that add a g</strong></li>
  </ul> 
  
  <p>For some -er and -ir verbs, we need to insert a g before adding the infinitive endings.</p>
