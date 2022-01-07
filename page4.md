@@ -31,11 +31,7 @@ h1 {text-align: center;}
 
 <h5 style="color:MediumSpringGreen"><strong>Actividad 3:</strong></h5>  
 
-<iframe src="https://h5p.org/h5p/embed/1240428" width="1090" height="240" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Speak the Words"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<iframe src="https://h5p.org/h5p/embed/1240583" width="1090" height="217" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Speak the Words 2"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<iframe src="https://h5p.org/h5p/embed/1240584" width="1090" height="217" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Speak the Words 3"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/1240588" width="1090" height="349" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Speak the Words Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
