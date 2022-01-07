@@ -14,13 +14,23 @@ h1 {text-align: center;}
 
 <h3 lang="es" style="color:DodgerBlue"><strong>Semana 1</strong></h3>
 
-<p>¡Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>!.</p>
+<p lang="es">¡Esta semana vamos a repasar el <strong> presente del subjuntivo</strong>!.</p>
 
 
 <p><strong> What is the present subjunctive?</strong></p>
  
 <p>The present subjunctive (el presente de subjuntivo) is used to refer to the future as well as the present. It can be used in a variety of ways to express: possibilities, 
  uncertainties and doubts, desires, feelings and advice.</p>
+ 
+ 
+ <p lang="es">Aqui estan algunos ejemplos de oraciones en el presente del subjuntivo:</p>
+ 
+ <ul>
+ <li>Quiero que Catalina haga un viaje conmigo la proxima semana.</li> 
+ <li>A Paola le encanta que sea tan positiva.</li> 
+ <li>Ojalá gane un millón de dólares .</li> 
+ </ul> 
+ 
   
 <p style="color:Black"><strong>The following table shows you the acronym "WEIRDO" which helps you remember when to use the present subjunctive along with some examples:
  </strong></p>
@@ -65,19 +75,17 @@ table, th, td {
    <tr>
     <td><strong>O</strong>jalá</td>
     <td>Ojalá que...   Espero que...</td>
-    
   </tr>
   
 </table>
 
 
-<p>Like any other tense, the subjuntive has rules when it comes to changing the verb</p>
-
-
-
 
 <p style="color:Black"><strong>Endings for Regular Verbs:</strong></p>
-<head>
+
+<p>To conjugate regular verbs in the present subjunctive, we remove the infinitive ending.</p>
+
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -136,8 +144,48 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+<p><strong>Here are some irregular verbs you need to know!:<strong></p>
 
-
+ <ul>
+ <li> Caber - quepa, quepas, quepa, quepamos, quepáis, quepan </li> 
+ <li> Dar - dé, des, dé, demos, deis, den	</li>
+ <li> Estar	- esté, estés, esté, estemos, estéis, estén</li> 
+ <li> Haber - haya, hayas, haya, hayamos, hayáis, hayan (It can only be used in the 3rd person singular in impersonal sentences in the present tense)</li> 
+ <li> Ir	- vaya, vayas, vaya, vayamos, vayáis, vayan</li> 
+ <li> Saber	- sepa, sepas, sepa, sepamos, sepáis, sepan</li> 
+ <li> Ser	- sea, seas, sea, seamos, seáis, sean</li> 
+ <li> Ver	- vea, veas, vea, veamos, veáis, vean</li>
+ </ul>  
+ 
+ <h5><strong>How to form the present subjunctive:</strong></h5>
+ 
+ <ul> 
+ <li><strong>Stem-changing verbs</strong></li>
+ </ul>  
+  
+ <p>Some verbs change the final vowel in their stem in their present subjunctive form.</p>
+ 
+ <ul> 
+ <li><strong>Verbs with a consonant change</strong></li>
+ </ul> 
+ 
+ <ul> 
+ <li><strong>Verbs that gain an accent</strong></li>
+ </ul> 
+ 
+ <ul> 
+ <li><strong>Verbs that add a z</strong></li>
+ </ul> 
+ 
+ <ul> 
+ <li><strong>Verbs that add a g</strong></li>
+ </ul> 
+ 
+ 
+ 
+ 
+ 
+ 
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
 
