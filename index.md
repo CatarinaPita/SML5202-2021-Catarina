@@ -16,7 +16,7 @@ title: Home
 
   <p>Here <em>you</em> will be able to <strong>easily</strong> learn Spanish.</p>
   
- <h6>This Website Help You With:</h6>
+ <h6>This Website Will Help You With:</h6>
  <ul>
   <li>Learning more about Spanish(Spain) culture</li>
   <li>Practicing your reading, writing, listening and speaking skills</li>
