@@ -190,7 +190,7 @@ tr:nth-child(even) {
    <li><strong>c → z	</strong>  Ejemplo: Ven<u>c</u>er - Ven<u>z</u>a     </li>
    <li><strong>g → gu	</strong>  Ejemplo: Ju<u>g</u>ar - Jue<u>gu</u>e    </li>
    <li><strong>gu → g	</strong>  Ejemplo: Se<u>gu</u>ir - Si<u>g</u>a     </li>
-   <li><strong>g → j	</strong>  Ejemplo: Ele<u>g</u>ir - Eli<u>j</u>a     </li>
+   <li><strong>g → j	</strong>  Ejemplo: Ele<u>g</u>ir - Eli<u>j</u>a    </li>
    <li><strong>z → c	</strong>  Ejemplo: Comen<u>z</u>ar - Comien<u>c</u>e     </li>
 </ol> 
 
