@@ -590,11 +590,3 @@ tr:nth-child(even) {
 <hr>
 <h3 lang="es" style="color:OrangeRed"><strong>Semana 3</strong></h3>
 <p>The content for this week will be uploaded next Monday!</p>
-
-<hr>
-
-
-<audio controls>
-  <source src="https://catarinapita.github.io/SML5202-2021-Catarina/audio/Test%20recording.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
