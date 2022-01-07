@@ -122,7 +122,7 @@ h1 {text-align: center;}
 
 <h5 style="color:MediumSpringGreen"><strong>Actividad 1:</strong></h5>  
 
-<iframe width="200" height="111" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="222" src="https://www.youtube.com/embed/lrxjLhD5Ng4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
