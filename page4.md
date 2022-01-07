@@ -14,6 +14,11 @@ h1 {text-align: center;}
 
 <h3 lang="es" style="color:DodgerBlue"><strong>Semana 1</strong></h3>
 
+<h5 style="color:MediumSpringGreen"><strong>Actividad 1:</strong></h5> 
+
+<iframe src="https://h5p.org/h5p/embed/1240596" width="1090" height="626" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Fill in the Blanks 3"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
