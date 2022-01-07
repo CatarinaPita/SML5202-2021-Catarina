@@ -144,7 +144,7 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-<p><strong>Here are some irregular verbs you need to know!:<strong></p>
+<p><strong>Here are some irregular verbs you need to know!:</strong></p>
 
  <ul>
  <li> Caber - quepa, quepas, quepa, quepamos, quepáis, quepan </li> 
