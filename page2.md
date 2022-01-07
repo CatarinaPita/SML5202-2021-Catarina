@@ -19,6 +19,8 @@ h1 {text-align: center;}
 
 <h2>FIESTAS ESPAÑOLAS:</h2>
 
+<p>Let's look at a few festivals:<p>
+
 <div class="row">
 <div class="col-sm-4">
 <h3 style="color:red">La Tomatina</h3>
@@ -74,6 +76,8 @@ h1 {text-align: center;}
  <hr>
  
  <h2> COSTUMBRES ESPAÑOLAS:</h2>
+ 
+ <p>Let's look at a few customs:<p>
  
  <div class="row">
 <div class="col-sm-4">
