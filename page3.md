@@ -169,22 +169,52 @@ tr:nth-child(even) {
  <li><strong>Verbs with a consonant change</strong></li>
  </ul> 
  
+ <p><strong>Las reglas:</strong></p>
+  
+ <ol>
+  <li><strong>c → qu	</strong>  Ejemplo: Provocar - Provoque     </li>
+  <li><strong>c → z	</strong>  Ejemplo: Vencer - Venza     </li>
+  <li><strong>g → gu	</strong>  Ejemplo: Jugar - Juegue    </li>
+ <li><strong>gu → g	</strong>  Ejemplo: Seguir - Siga     </li>
+ <li><strong>g → j	</strong>  Ejemplo: Elegir - Elija     </li>
+ <li><strong>z → c	</strong>  Ejemplo: Comenzar - Comience     </li>
+</ol> 
+
+ 
+ 
  <ul> 
  <li><strong>Verbs that gain an accent</strong></li>
  </ul> 
+ 
+ <p>Because of the combination of vowels, some verbs take an accent in the 1st, 2nd and 3rd person singular as well as in the 3rd person plural in both the present indicative and subjunctive. </p>
+
+<p><strong>Algunos ejemplos:</strong></p>
+<p>actuar → actúe, actúes, actúe, actuemos, actuéis, actúen</p>
+<p>prohibir → prohíba, prohíbas, prohíba, prohibamos, prohibáis, prohíban</p>
+ 
  
  <ul> 
  <li><strong>Verbs that add a z</strong></li>
  </ul> 
  
+ <p>The verbs (re)conocer, conducir, (des)obedecer, padecer, parecer and traducir add a z before the final c in the present subjunctive.</p>
+
+<p><strong>Algunos ejemplos:</strong></p>
+<p>conocer → conozca, conozcas, conozca, conozcamos, conozcáis, conozcan</p>
+<p>conducir → conduzca, conduzcas, conduzca, conduzcamos, conduzcáis, conduzcan</p>
+
+ 
  <ul> 
  <li><strong>Verbs that add a g</strong></li>
  </ul> 
  
+ <p>For some -er and -ir verbs, we need to insert a g before adding the infinitive endings.</p>
  
+ <p><strong>Algunos ejemplos:</strong></p>
  
- 
- 
+<p>Oír -	oiga, oigas, oiga, oigamos, oigáis, oigan</p>
+<p>Poner -	ponga, pongas, ponga, pongamos, pongáis, pongan</p>
+<p>Salir -	salga, salgas, salga, salgamos, salgáis, salgan</p>
  
 <hr>
 <h3 lang="es" style="color:MediumVioletRed"><strong>Semana 2</strong></h3>
