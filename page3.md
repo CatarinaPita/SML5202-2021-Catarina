@@ -194,7 +194,6 @@ tr:nth-child(even) {
    <li><strong>z → c	</strong>  Ejemplo: Comen<u>z</u>ar - Comien<u>c</u>e     </li>
 </ol> 
 
- 
  <ul> 
  <li style="color:Black"><strong>Verbs that gain an accent</strong></li>
  </ul> 
