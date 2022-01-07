@@ -9,7 +9,7 @@ h1 {text-align: center;}
 
 
 <h1>Need Any Help?</h1>
-<p>In this page you will be able to get the help you want! However, if you think you need some extra help you can email me at CatarinaPita@email.com and we can book a private lesson with me.</p>
+<p>In this page you will be able to get the help you want! However, if you think you need some extra help you can email me at CatarinaPita@email.com and you can book a private lesson with me.</p>
 
 
 <hr>
