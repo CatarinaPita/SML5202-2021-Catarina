@@ -52,5 +52,9 @@ h1 {text-align: center;}
 
 
 <hr>
+
+<h3>Here you can see where the festivals mentioned on the Culture page are eaxcly located</h3>
+
+<p>Click on each bubble on the map to read more about it and see a few cool pictures of the locations!</p>
         
 <iframe src="https://www.google.com/maps/d/embed?mid=1_Re4nxtJkIgPSCcPF6C9h5UDIdri7zDo&ehbc=2E312F" width="640" height="480"></iframe>
