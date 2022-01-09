@@ -53,7 +53,7 @@ h1 {text-align: center;}
 
 <hr>
 
-<h3>Here you can see where the festivals mentioned on the Culture page are exactly located</h3>
+<h3>Where are the festivals mentioned exactly located?</h3>
 
 <p>Click on each bubble on the map to read more about it and see a few cool pictures of the locations!</p>
         
