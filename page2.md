@@ -47,7 +47,7 @@ h1 {text-align: center;}
   <li>The fiestas begin on July 6 with the launch of el chupinazo (firework rocket) in the Plaza del Ayuntamiento (the same place where it all ends on 
    July 14th).</li>
   <li>During the days in between, bulls and humans alike run at top speeds through the city’s main streets on their way to the bullring.</li>
-  <li> El encierro (A bull run) is a race that takes two to three minutes to run about 950 yards long and in each bull run around 2,000 people participate.</li>
+  <li> El encierro (A bull run) is a race that takes two to three minutes to run about 950 yards and in each bull run, around 2,000 people participate.</li>
   <li> Sanfermines is also a religious festival dedicated to Saint Fermin, so you can expect to see a variety of processions throughout the city on July 7.</li>
   </ul> 
  </div>
