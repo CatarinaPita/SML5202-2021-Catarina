@@ -41,7 +41,7 @@ h1 {text-align: center;}
  
 <div class="col-sm-4">
 <h3 style="color:blue">Fiesta de San Fermín</h3>
- <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" width="400" height="222"></p>
+ <p><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/%D7%9C%D7%A8%D7%95%D7%A5_%D7%A2%D7%9D_%D7%94%D7%A9%D7%95%D7%95%D7%A8%D7%99%D7%9D_%D7%91%D7%A4%D7%9E%D7%A4%D7%9C%D7%95%D7%A0%D7%94.jpg" alt="Fiesta de San Fermín" width="400" height="222"></p>
 
   <ul>
   <li>The fiestas begin on July 6 with the launch of el chupinazo (firework rocket) in the Plaza del Ayuntamiento (the same place where it all ends on 
@@ -54,7 +54,7 @@ h1 {text-align: center;}
  
  <div class="col-sm-4">
    <h3 style="color:DeepPink">Semana Santa</h3>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="La Tomatina" width="400" height="222"></p>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Semana_Santa_La_Laguna_81.jpg" alt="Semana Santa" width="400" height="222"></p>
  
    <ul>
   <li>Spain’s Semana Santa traditions are vibrant celebrations with religious origins in which emotion-stirring processions make their way through cities and towns across the 
