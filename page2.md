@@ -110,7 +110,7 @@ h1 {text-align: center;}
  
   <ul>
   <li> In Spain, people greet each other and say goodbye with a kiss on each cheek.</li>
-  <li>People usually touch their right cheeks together and make a kissing sound, then repeat the process on the left side.</li>
+  <li>People usually greet eachother with a kiss on each cheek and make a kissing sound.</li>
   <li>Spaniards don’t do this every morning when they come into work, but if you meet a friend for drinks or are introduced to someone new, the double cheek kiss is given to 
    say hello and goodbye.</li>
   <li>Women are always greeted this way, but two men shake hands with each other unless they are relatives.</li>
