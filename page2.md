@@ -27,7 +27,7 @@ h1 {text-align: center;}
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/LT%E0%A5%A8.jpg" alt="La Tomatina" width="400" height="222"></p>
  
   <ul>
-  <li>La Tomatina is a food fight festival which happens on the last Wednesday of August each year in the town of Buñol near to Valencia in Spain.</li> 
+  <li>La Tomatina is a food fight festival which happens on the last Wednesday of August each year, in the town of Buñol near to Valencia in Spain.</li> 
   <li> The batalla (fight) takes place during a week-long celebration filled with non-stop festivities and the ever-present anticipation of the monstrous tomato battle that  
    puts a climactic end to the week's events.</li> 
   <li>During the week leading up to this fiesta, the town of Buñol doubles in size as people from all over the world come to participate. This is a whole week of parades, 
