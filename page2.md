@@ -9,7 +9,7 @@ h1 {text-align: center;}
 <h1>All About Spanish Culture!</h1>
 
 
-<p>Spain is famous around the world for Flamenco music and dance, bullfights, fantastic beaches, and lots of sunshine. But what people sometimes forget is that Spain has been 
+<p>Spain is famous around the world for Flamenco music and dance, bullfights, fantastic beaches, and lots of sunshine. But sometimes what people forget is that Spain has been 
  one of the cultural centers of Europe for thousands of years.</p>
  
 <p>Learning Spanish is not just grammar and vocabulary but also about getting to know its people, their culture and ways of life. Spanish traditions, customs, celebrations, 
@@ -87,9 +87,8 @@ h1 {text-align: center;}
   <ul>
   <li>The Spanish siesta (meaning “nap”) is a tradition that everyone knows about but few people put into practice.</li> 
   <li>Spain is a hot country, especially mid-afternoon, and the traditional reason for the siesta is for the workers in the fields to shelter from the heat. They would then 
-  feel refreshed after their sleep and would work until quite late in the evening, longer than they would have been able to without the siesta.</li>
-  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. Major 
-   chains, however, are normally open all day without interruption.</li>
+  feel refreshed after their sleep and would work until very late in the evening, longer than they would have been able to without the siesta.</li>
+  <li>These factors explain why one of the many Spanish customs involves taking a nap after lunch. This means that most businesses and stores close between 2 and 4 p.m. However, major chains are normally open all day without interruption.</li>
   </ul> 
 </div>
  
@@ -98,10 +97,10 @@ h1 {text-align: center;}
 <p><img src="https://www.coffeegeek.com/wp-content/uploads/2019/09/americano-1-500x333.jpg" alt="Café" width="400" height="222"></p>
 
   <ul>
-  <li>Spain has a strong coffee culture, and it is not uncommon to drink four or five cups of coffee a day at all hours of the day. Café con leche, which is half strong black 
+  <li>Spain has a strong coffee culture, and it's very common to drink four or five cups of coffee a day at all hours of the day. Café con leche, which is half strong black 
    coffee and half milk, is by far the most popular way to drink java in Spain. You might be asked how you want your milk – caliente (hot), templada (warm), or fría (cold).</li>
-  <li>If a café con leche is too big for you, you can try a café cortado instead, which is a smaller version with only a touch of milk. Or if you’re craving something 
-   stronger, try a café solo, which is a small glass of nothing but strong black coffee.</li>
+  <li>If a café con leche is too big for you, you can try always try a cortado instead, which is a smaller version with only a touch of milk. If you’re craving something 
+   stronger, try a café solo, which is a small glass just strong black coffee.</li>
   </ul> 
  </div>
  
