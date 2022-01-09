@@ -40,7 +40,7 @@ h1 {text-align: center;}
 <h5 style="color:Red">Need a bit more help? Here are a few helpful links:</h5>
 
  <ul>
-  <li>For any additional information about other Spanish events click <a href="https://www.donquijote.org/spanish-culture/holidays/">here</a></li> and about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
+  <li>For any additional information about other Spanish events click <a href="https://www.donquijote.org/spanish-culture/holidays/">here</a> and about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
   <li>For any additional information about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
   <li>For extra help on conjugating verbs click <a href="https://www.wordreference.com/conj/EsVerbs.aspx?v=">here</a></li>
   <li>For any additional help on grammar please click <a href="https://espanol.lingolia.com/en/">here</a></li>
