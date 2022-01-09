@@ -99,7 +99,7 @@ h1 {text-align: center;}
   <ul>
   <li>Spain has a strong coffee culture, and it's very common to drink four or five cups of coffee a day at all hours of the day. Café con leche, which is half strong black 
    coffee and half milk, is by far the most popular way to drink java in Spain. You might be asked how you want your milk – caliente (hot), templada (warm), or fría (cold).</li>
-  <li>If a café con leche is too big for you, you can try always try a cortado instead, which is a smaller version with only a touch of milk. If you’re craving something 
+  <li>If a café con leche is too large for you, you can always try a cortado instead, which is a smaller version with only a touch of milk. If you’re craving something 
    stronger, try a café solo, which is a small glass just strong black coffee.</li>
   </ul> 
  </div>
