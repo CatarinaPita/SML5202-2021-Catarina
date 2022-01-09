@@ -41,7 +41,6 @@ h1 {text-align: center;}
 
  <ul>
   <li>For any additional information about other Spanish events click <a href="https://www.donquijote.org/spanish-culture/holidays/">here</a> and about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
-  <li>For any additional information about other Spanish customs click <a href="https://www.donquijote.org/spanish-culture/traditions/">here</a></li>
   <li>For extra help on conjugating verbs click <a href="https://www.wordreference.com/conj/EsVerbs.aspx?v=">here</a></li>
   <li>For any additional help on grammar please click <a href="https://espanol.lingolia.com/en/">here</a></li>
   </ul>       
