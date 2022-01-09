@@ -25,7 +25,7 @@ title: Home
 </div>
  
 <div class="col-sm-6">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" width="500" height="333"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Spain_stub.svg" alt="Map of Spain" width="500" height="333"></p>
 </div>
  
 </div>   
