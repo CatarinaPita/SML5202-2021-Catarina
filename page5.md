@@ -32,7 +32,7 @@ h1 {text-align: center;}
 
  <div class="row">
 <div class="col-sm-4">
-<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" alt="La Siesta" width="400" height="222"></p>
+<p><img src="https://cdn.pixabay.com/photo/2018/01/14/22/59/cartoon-3082809_1280.png" alt="Confused emoji" width="400" height="222"></p>
 
 </div>
  
